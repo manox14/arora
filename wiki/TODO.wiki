@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary The Unsorted drop zone
 
 Todo file for Arora
 
@@ -13,3 +13,123 @@ Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
+
+
+urllineedit
+  * fix in reversise
+  * gradient in OS X
+
+  * drop url on tab bar ether opening a new url or when on a tab in that tab
+  * clone tab -> duplicate tab
+
+
+Misc
+  * http://blog.pavlov.net/2008/03/11/firefox-3-memory-usage/
+  * http://people.opera.com/~pettern/performance-1.html
+  * http://people.opera.com/~pettern/performance-2.html
+  * scrolling is slow
+  * Scrollwheel speed/response time sucks
+  * can't log into Greenpages!
+
+  * completer menu is not to the edges of the line edit
+
+  * middle click to past a url in a line edit... grr
+  * if (line edit has focus don't draw progressbar)
+  * icon width needs fixing
+
+  * type in a single name in the url such as codepaster
+
+QtWebKit
+  * http://torchrelay.beijing2008.cn/en/journey/map/ show box or something when someone wants flash
+  * Frames based stuff can be tested at: http://www.koffice.org/developer/apidocs/
+  * Is the page secure?
+  * http://www.webtoolkit.eu/ crash
+  * [205030] http://en.wikipedia.org/wiki/Austrian_economics assert
+  * [205252] put address in maps.google.com, progressbar doesn't fill all the way
+  * [205257] Goto facebook.com login page, try to tab to the "Remember Me" checkbox
+  * [205259] boardgamegeek.com or facebook.com, a closed combobox doesn't paint the down arrow
+  * [205260] Frames, cursor doesn't change to a splitter when resizing
+  * [205264] right click on a scrollbar keeps scrolling
+  * [205271] Paste multi-line onto a webkit line edit, only first line is pasted
+  * [205272] middle click on a scrollbar should move to the point in the file
+  * [205278] goldoptimusprime.com title doesn't have a drop down
+  * [205281] select character encoding
+  * [205286] Tab focus on slashdot.org is slow
+
+Qt
+  * hover over history menu doesn't show up in statusbar on Linux
+  * cookie need to accept sub domains
+  * Network needs to use a cache
+  * file download name need to be determined from network header
+  * right click on the left side of the toolbar the menu should be empty, but it shows the menu for the first item
+
+DemoBrowser (todo)
+  * urllineedit
+  * clear stuff
+  * url line edit background on OS X
+  * cache SSL ignore's
+
+DemoBrowser (general)
+  * http://www.explosm.net/comics/1226/ files that are downloaded
+  * Fullscreen/maximize issue
+  * In statusbar: "Loading "url", completed 66 of 74 items"
+  * Find, hit enter, link isn't followed
+  * drop bookmarks file on demo
+  * QMenu with no parent for OS X
+  * right click on bookmarks toolbar
+  * google search client so we stop being Safari
+  * view source in right click menu
+  * search widget doesn't get focus ring on mac
+  * syntax highlight in source view, find in source view
+  * multiple start pages with a '|'
+  * put your cursor in the location bar; press tab. Focus should be in the search widget.
+  * error pages screw up history
+
+  * Enable the page cache in QtWebKit (see QWebSettings for that), a simple calculation like having 10 tabs with forward and back should work fast you are at 20 pages.
+
+  * Make sure you have a homepage set (trolltech.com is fine), and start 
+browser.  It takes a while before loading is completed (before you see 
+the 'stop' change into reload) and in that time the location bar is set to 
+the current value several times.
+Which is damn annoying when I try to type a new location ;)
+I expect that whatever the state, if I start typing in the location bar, 
+browser will not overwrite it again with a new value.
+
+* bug (in master aka 4.5);  when I start browser I have no favicos in my 
+history menu.  When I select one entry from it (which changes the menu), or 
+just wait a while and close and reopen the menu; I get all the favicos.  Race condition?
+
+DemoBrowser (maybe or nice to have or investigate later)
+  * Save find string per frame/view/tab
+  * Download file ends with .download an then renamed?
+  * Close all message box, add a checkbox to not show again
+  * When there is only 1 tab the tabwidet should be "hidden"
+
+Plugins
+  * KWallet integration
+  * Set the user agent
+  * could help with scripting http://amarok.kde.org/blog/archives/611-Scriptable-Services.html
+
+History/Bookmarks
+  * Put the bookmark manager with history manager in a tab so the undo/redo can appear in the menu
+  * History, select multiple
+  * Bookmarks Dialog right click menu, flesh out
+  * View local Bonjor Servers
+  * http://live.gnome.org/Epiphany/BookmarksHistoryIntegration
+  * Top 10
+
+History data
+  * how long, when does the page close
+  * referer url
+  * sync
+  * time with timezone?
+  * screenshot?
+
+http://www.reason.com/blog/show/125077.html 
+
+QUrl( "http://ad.firstadsolution.com/st?ad_type=iframe&ad_size=728x90&section=260705&pub_redirect_unencoded=1&pub_redirect=http://optimized-by.rubiconproject.com/t/1655/1667/3956.41648?redirect_url=" )  
+
+Tab ideas:
+https://addons.mozilla.org/en-US/firefox/addon/3726
+http://www.eccentrix.com/members/peterg/fftabs/index.html
+http://img248.imageshack.us/img248/3260/tabprototypeuo4.png
