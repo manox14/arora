@@ -107,11 +107,11 @@ History data
   * time with timezone?
   * screenshot?
 
-http://www.reason.com/blog/show/125077.html 
+  * http://www.reason.com/blog/show/125077.html 
 
-QUrl( "http://ad.firstadsolution.com/st?ad_type=iframe&ad_size=728x90&section=260705&pub_redirect_unencoded=1&pub_redirect=http://optimized-by.rubiconproject.com/t/1655/1667/3956.41648?redirect_url=" )  
+  * QUrl("http://ad.firstadsolution.com/st?ad_type=iframe&ad_size=728x90&section=260705&pub_redirect_unencoded=1&pub_redirect=http://optimized-by.rubiconproject.com/t/1655/1667/3956.41648?redirect_url=")  
 
 Tab ideas:
-https://addons.mozilla.org/en-US/firefox/addon/3726
-http://www.eccentrix.com/members/peterg/fftabs/index.html
-http://img248.imageshack.us/img248/3260/tabprototypeuo4.png
+  * https://addons.mozilla.org/en-US/firefox/addon/3726
+  * http://www.eccentrix.com/members/peterg/fftabs/index.html
+  * http://img248.imageshack.us/img248/3260/tabprototypeuo4.png
