@@ -8,6 +8,11 @@ This is short term dumping ground for bugs, tasks, ideas, and suggestions.
 
 = Details =
 
+Bookmarks dialog
+  * Select a bunch and move, order reversed, screwed up
+  * Select multiple, right click and delete
+  * Can't delete a folder if it has items
+
 urllineedit
   * fix layout of left and right object in reverse mode.
   * gradient in OS X
