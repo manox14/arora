@@ -1,35 +1,5 @@
 #summary project source code
 
-= Introduction =
-
-The source code is shttp://github.com/icefox/arora/tree/master
-
-This is how you get the source
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Download Qt 4.4.x
+= Command-Line Access =
 
 http://github.com/icefox/arora/tree/master
-
-
-
-Command-Line Access
-
-If you plan to make changes, use this command to check out the code as yourself using HTTPS:
-
-# Project members authenticate over HTTPS to allow committing changes.
-svn checkout https://arora.googlecode.com/svn/trunk/ arora --username icefox
-
-When prompted, enter your generated googlecode.com password.
-
-Use this command to anonymously check out the latest project source code:
-
-# Non-members may check out a read-only working copy anonymously over HTTP.
-svn checkout http://arora.googlecode.com/svn/trunk/ arora-read-only
-
-GUI and IDE Access
-
-This project's Subversion repository may be accessed using many different client programs and plug-ins. See your client's documentation for more information.
