@@ -1,5 +1,3 @@
-#summary project source code
-
 The Arora source code is in a git repository and the main repository is currently hosted on github.com
 
 = Checkout =
