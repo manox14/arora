@@ -14,6 +14,8 @@ Bookmarks dialog
   * Select a bunch and move, order reversed, screwed up
   * Select multiple, right click and delete
   * Can't delete a folder if it has items
+  * Bookmark dialog?
+  * Bookmark toolbar should be able to show icons
 
 urllineedit
   * fix layout of left and right object in reverse mode.
@@ -21,7 +23,6 @@ urllineedit
 
   * drop url on tab bar ether opening a new url or when on a tab in that tab
   * Change "clone tab" -> "duplicate tab"
-
 
 Misc
   * http://blog.pavlov.net/2008/03/11/firefox-3-memory-usage/
