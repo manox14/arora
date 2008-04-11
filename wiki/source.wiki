@@ -1,5 +1,13 @@
 #summary project source code
 
-= Command-Line Access =
+The Arora source code is in a git repository and the main repository is currently hosted on github.com
 
-http://github.com/icefox/arora/tree/master
+= Checkout =
+
+To checkout a copy of the source execute the following command
+
+ {{{ git checkout git@github.com:icefox/arora.git }}}
+
+= Browse =
+
+To browse the source code go to: http://github.com/icefox/arora
