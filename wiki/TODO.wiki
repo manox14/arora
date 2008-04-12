@@ -6,25 +6,7 @@ Todo file for Arora
 
 This is short term dumping ground for bugs, tasks, ideas, and suggestions.
 
-= Details =
-
-when title is null set the tab title to the url
-
-Bookmarks dialog
-  * Select a bunch and move, order reversed, screwed up
-  * Select multiple, right click and delete
-  * Can't delete a folder if it has items
-  * Bookmark dialog?
-  * Bookmark toolbar should be able to show icons
-
-urllineedit
-  * fix layout of left and right object in reverse mode.
-  * gradient in OS X
-
-  * drop url on tab bar ether opening a new url or when on a tab in that tab
-  * Change "clone tab" -> "duplicate tab"
-
-Misc
+=== Misc ===
   * http://blog.pavlov.net/2008/03/11/firefox-3-memory-usage/
   * http://people.opera.com/~pettern/performance-1.html
   * http://people.opera.com/~pettern/performance-2.html
@@ -32,23 +14,21 @@ Misc
   * Scrollwheel speed/response time sucks
   * can't log into Greenpages
 
-  * completer menu is not to the edges of the line edit
-
-QtWebKit
+=== QtWebKit Issues ===
   * http://torchrelay.beijing2008.cn/en/journey/map/ show box or something when someone wants flash
   * Frames based stuff can be tested at: http://www.koffice.org/developer/apidocs/
   * Is the page secure?
   * http://www.webtoolkit.eu/ crash
-  * [205030] http://en.wikipedia.org/wiki/Austrian_economics assert
+  * [205030] http://en.wikipedia.org/wiki/Austrian_economics assert on OS X
   * [205252] put address in maps.google.com, progressbar doesn't fill all the way
   * [205260] Frames, cursor doesn't change to a splitter when resizing
   * [205271] Paste multi-line onto a webkit line edit, only first line is pasted
-  * [205272] middle click on a scrollbar should move to the point in the file
   * [205278] goldoptimusprime.com title doesn't have a drop down
   * [205281] select character encoding
   * [205286] Tab focus on slashdot.org is slow
-
-Qt
+ * Find, hit enter, link isn't followed
+ 
+=== Qt Issues ===
   * hover over history menu doesn't show up in statusbar on Linux
   * cookie need to accept sub domains
   * Network needs to use a cache
@@ -56,20 +36,16 @@ Qt
   * right click on the left side of the toolbar the menu should be empty, but it shows the menu for the first item
 
 DemoBrowser (general)
-  * urllineedit
-  * clear everything dialog
-  * url line edit background on OS X
+  * clear everything dialog (extension?)
   * cache SSL ignore's
-  * http://www.explosm.net/comics/1226/ files that are downloaded
+  * http://www.explosm.net/comics/1226/ files that are downloaded, work around bug in file
   * Fullscreen/maximize issue
   * In statusbar: "Loading "url", completed 66 of 74 items"
-  * Find, hit enter, link isn't followed
   * drop bookmarks file on demo
   * QMenu with no parent for OS X
   * right click on bookmarks toolbar
   * google search client so we stop being Safari
   * view source in right click menu
-  * search widget doesn't get focus ring on mac
   * syntax highlight in source view, find in source view
   * multiple start pages with a '|'
   * put your cursor in the location bar; press tab. Focus should be in the search widget.
@@ -95,10 +71,32 @@ DemoBrowser (maybe or nice to have or investigate later)
   * Close all message box, add a checkbox to not show again
   * When there is only 1 tab the tabwidet should be "hidden"
 
-Plugins
+=== Extensions ===
   * KWallet integration
   * Set the user agent
-  * could help with scripting http://amarok.kde.org/blog/archives/611-Scriptable-Services.html
+  * GreaseMonkey
+  * Maybe could help with scripting design http://amarok.kde.org/blog/archives/611-Scriptable-Services.html
+
+=== Urllineedit ===
+  * fix layout of left and right object in reverse mode.
+  * gradient in OS X
+  * completer menu is not to the edges of the line edit
+
+=== Tabs ===
+  * When webpage title is null set the tab title to the url
+  * Change "clone tab" -> "duplicate tab"
+
+=== Bookmarks ===
+  * Bookmark dialog?
+
+=== Bookmarks Dialog===
+  * Select a bunch and move, order reversed, screwed up
+  * Select multiple, right click and delete
+  * Can't delete a folder if it has items, right click menu item should be disabled
+
+=== Bookmark Bar ===
+  * drop url on tab bar ether opening a new url or when on a tab in that tab
+  * Should be able to show icons
 
 History/Bookmarks
   * Put the bookmark manager with history manager in a tab so the undo/redo can appear in the menu
@@ -122,4 +120,4 @@ History data
 Tab ideas:
   * https://addons.mozilla.org/en-US/firefox/addon/3726
   * http://www.eccentrix.com/members/peterg/fftabs/index.html
-  * http://img248.imageshack.us/img248/3260/tabprototypeuo4.png
+  * img248.imageshack.us/img248/3260/tabprototypeuo4.png
