@@ -6,13 +6,10 @@ Todo file for Arora
 
 This is short term dumping ground for bugs, tasks, ideas, and suggestions.
 
-=== Misc ===
+=== Performance Notes ===
   * http://blog.pavlov.net/2008/03/11/firefox-3-memory-usage/
   * http://people.opera.com/~pettern/performance-1.html
   * http://people.opera.com/~pettern/performance-2.html
-  * scrolling is slow
-  * Scrollwheel speed/response time sucks
-  * can't log into Greenpages
 
 === QtWebKit Issues ===
   * http://torchrelay.beijing2008.cn/en/journey/map/ show box or something when someone wants flash
@@ -34,6 +31,7 @@ This is short term dumping ground for bugs, tasks, ideas, and suggestions.
   * Network needs to use a cache
   * file download name need to be determined from network header
   * right click on the left side of the toolbar the menu should be empty, but it shows the menu for the first item
+  * can't log into Greenpages
 
 DemoBrowser (general)
   * clear everything dialog (extension?)
@@ -50,9 +48,7 @@ DemoBrowser (general)
   * multiple start pages with a '|'
   * put your cursor in the location bar; press tab. Focus should be in the search widget.
   * error pages screw up history
-
   * Enable the page cache in QtWebKit (see QWebSettings for that), a simple calculation like having 10 tabs with forward and back should work fast you are at 20 pages.
-
   * Make sure you have a homepage set (trolltech.com is fine), and start 
 browser.  It takes a while before loading is completed (before you see 
 the 'stop' change into reload) and in that time the location bar is set to 
@@ -60,8 +56,7 @@ the current value several times.
 Which is damn annoying when I try to type a new location ;)
 I expect that whatever the state, if I start typing in the location bar, 
 browser will not overwrite it again with a new value.
-
-* bug (in master aka 4.5);  when I start browser I have no favicos in my 
+  * bug (in master aka 4.5);  when I start browser I have no favicos in my 
 history menu.  When I select one entry from it (which changes the menu), or 
 just wait a while and close and reopen the menu; I get all the favicos.  Race condition?
 
@@ -76,6 +71,7 @@ DemoBrowser (maybe or nice to have or investigate later)
   * Set the user agent
   * GreaseMonkey
   * Maybe could help with scripting design http://amarok.kde.org/blog/archives/611-Scriptable-Services.html
+  * Start page of the Top 10 sites in the history
 
 === Urllineedit ===
   * fix layout of left and right object in reverse mode.
@@ -93,18 +89,19 @@ DemoBrowser (maybe or nice to have or investigate later)
   * Select a bunch and move, order reversed, screwed up
   * Select multiple, right click and delete
   * Can't delete a folder if it has items, right click menu item should be disabled
+  * Flesh out right click menu
 
 === Bookmark Bar ===
   * drop url on tab bar ether opening a new url or when on a tab in that tab
   * Should be able to show icons
 
-History/Bookmarks
+=== History/Bookmarks ===
   * Put the bookmark manager with history manager in a tab so the undo/redo can appear in the menu
-  * History, select multiple
-  * Bookmarks Dialog right click menu, flesh out
   * View local Bonjor Servers
   * http://live.gnome.org/Epiphany/BookmarksHistoryIntegration
-  * Top 10
+
+=== History Dialog ===
+  * Be able to select/delete multiple items at a time
 
 History data
   * how long, when does the page close
