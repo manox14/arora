@@ -78,10 +78,6 @@ DemoBrowser (maybe or nice to have or investigate later)
   * gradient in OS X
   * completer menu is not to the edges of the line edit
 
-=== Tabs ===
-  * When webpage title is null set the tab title to the url
-  * Change "clone tab" -> "duplicate tab"
-
 === Bookmarks ===
   * Bookmark dialog?
 
