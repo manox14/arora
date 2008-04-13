@@ -6,11 +6,6 @@ Todo file for Arora
 
 This is short term dumping ground for bugs, tasks, ideas, and suggestions.
 
-=== Performance Notes ===
-  * http://blog.pavlov.net/2008/03/11/firefox-3-memory-usage/
-  * http://people.opera.com/~pettern/performance-1.html
-  * http://people.opera.com/~pettern/performance-2.html
-
 === QtWebKit Issues ===
   * http://torchrelay.beijing2008.cn/en/journey/map/ show box or something when someone wants flash
   * Frames based stuff can be tested at: http://www.koffice.org/developer/apidocs/
