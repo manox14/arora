@@ -6,7 +6,7 @@ More information about git include tutorials and GUI tools can be found at http:
 
 To checkout a copy of the source execute the following command
 
- {{{ git clone git@github.com:icefox/arora.git }}}
+ {{{ git clone git://github.com/icefox/arora.git }}}
 
 = Browse =
 
