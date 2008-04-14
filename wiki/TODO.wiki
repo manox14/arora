@@ -8,18 +8,11 @@ This is short term dumping ground for bugs, tasks, ideas, and suggestions.
 
 === QtWebKit Issues ===
   * http://torchrelay.beijing2008.cn/en/journey/map/ show box or something when someone wants flash
-  * Frames based stuff can be tested at: http://www.koffice.org/developer/apidocs/
   * Is the page secure?
-  * http://www.webtoolkit.eu/ crash
   * Find, hit enter, link isn't followed
   * In statusbar: "Loading "url", completed 66 of 74 items"
   * [205030] http://en.wikipedia.org/wiki/Austrian_economics assert on OS X
   * [205252] put address in maps.google.com, progressbar doesn't fill all the way
-  * [205260] Frames, cursor doesn't change to a splitter when resizing
-  * [205271] Paste multi-line onto a webkit line edit, only first line is pasted
-  * [205278] goldoptimusprime.com title doesn't have a drop down
-  * [205281] select character encoding
-  * [205286] Tab focus on slashdot.org is slow
  
 === Qt Issues ===
   * hover over history menu doesn't show up in statusbar on Linux
