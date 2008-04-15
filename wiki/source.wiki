@@ -1,4 +1,4 @@
-The Arora source code is in a git repository and the main repository is currently hosted on http://github.com
+The Arora source code is in a git repository and the main repository is currently hosted on github.com
 
 More information about git include tutorials and GUI tools can be found at http://git.or.cz/
 
