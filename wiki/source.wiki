@@ -1,7 +1,5 @@
 The Arora source code is in a git repository and the main repository is currently hosted on github.com
 
-More information about git include tutorials and GUI tools can be found at http://git.or.cz/
-
 = Checkout =
 
 To checkout a copy of the source execute the following command
@@ -11,3 +9,7 @@ To checkout a copy of the source execute the following command
 = Browse =
 
 To browse the source code go to: http://github.com/icefox/arora
+
+== Information about Git ==
+More information about git include tutorials and GUI tools can be found at http://git.or.cz/
+
