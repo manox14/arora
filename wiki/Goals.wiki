@@ -27,7 +27,7 @@ The following consider out of scope for the project
 
 === Single Desktop Browser ===
 
-Arora will not strive to become a KDE browser or only a Windows browser.  Specifically on Linux Arora should fit just as well in Gnome as it does with KDE.  Specific features to integrate with KDE, Gnome, OS X, or Windows should be built as extensions whenever possible.
+Arora will not strive to become a KDE browser or only a Windows browser.  Specifically on Linux Arora should fit just as well in Gnome as it does with KDE.  Rather then calling it a Linux browser perhaps it should be called a FreeDesktop.org Browser.  Specific features to integrate with KDE, Gnome, OS X, or Windows should be built as extensions whenever possible.
 
 === The Kitchen Sink ===
 
