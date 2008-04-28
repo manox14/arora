@@ -23,7 +23,7 @@ qmake
 make
 }}}
 
-Arora requires a build of Qt 4.4 preferably the 4.4.0 snapshot as the QtWebkit API has changed slightly since the rc1.  Arora will build with rc1, but you will see some connect errors on the command line and the progressbar in the line edit will never finish (the loadFinished signal signature was changed after the rc1).
+Arora requires a build of Qt 4.4 preferably the 4.4.0 snapshot as the QtWebKit API has changed slightly since the rc1.  Arora will build with rc1, but you will see some connect errors on the command line and the progressbar in the line edit will never finish (the loadFinished signal signature was changed after the rc1).
 
 If you want to use Arora with QtWebKit trunk you need to get a copy WebKit trunk as well at Qt 4.4.  Setting the environment variable QT_WEBKIT and rebuilding Arora will cause it to use QtWebKit trunk.  See the file 'src/webkittrunk.pri' in Arora's source for more details and customizations you might need to do to point it to the location of your QtWebKit checkout.
 
