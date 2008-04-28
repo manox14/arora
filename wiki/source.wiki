@@ -21,7 +21,7 @@ git clone git://github.com/icefox/arora.git
 cd arora
 qmake
 make
-}}
+}}}
 
 Arora requires a build of Qt 4.4 preferably the 4.4.0 snapshot as the QtWrebkit API has changed slightly since the rc1.  Arora will build with rc1, but you will see some connect errors on the command line and the progressbar in the line edit will never finish (the loadFinished signal signature was changed after the rc1).
 
