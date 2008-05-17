@@ -30,7 +30,7 @@ If you want to use Arora with QtWebKit trunk you need to get a copy WebKit trunk
 Simple steps to build QtWebKit trunk.
 
 {{{
-clone git://code.staikos.net/webkit 
+git clone git://code.staikos.net/webkit 
 cd webkit
 git checkout -b trunk origin/svn/master  
 ./WebKitTools/Scripts/build-webkit --qt debug
