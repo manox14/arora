@@ -32,7 +32,6 @@ DemoBrowser (general)
   * view source in right click menu
   * syntax highlight in source view, find in source view
   * multiple start pages with a '|'
-  * put your cursor in the location bar; press tab. Focus should be in the search widget.
   * error pages screw up history
   * Enable the page cache in QtWebKit (see QWebSettings for that), a simple calculation like having 10 tabs with forward and back should work fast you are at 20 pages.
   * Make sure you have a homepage set (trolltech.com is fine), and start browser.  It takes a while before loading is completed (before you see the 'stop' change into reload) and in that time the location bar is set to the current value several times. Which is damn annoying when I try to type a new location ;) I expect that whatever the state, if I start typing in the location bar, browser will not overwrite it again with a new value.
