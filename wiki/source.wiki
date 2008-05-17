@@ -36,5 +36,7 @@ git checkout -b trunk origin/svn/master
 ./WebKitTools/Scripts/build-webkit --qt debug
 export QT_WEBKIT=webkit_trunk
 
-Now run qmake; make clean; make in Arora
+edit src/webkittrunk.pri and set the WEBKITHOME location
+
+Now run 'qmake; make clean; make' in Arora
 }}}
