@@ -17,6 +17,8 @@ On your local machine (if you haven't already) set your git user name and e-mail
   * Make any changes and then do a 'git push origin' to have it uploaded to github
   * Make a pull request http://github.com/guides/pull-requests to icefox
 
+  * If you want an image to show up next to your commits on github you have to make an account on http://gravatar.com/
+
 After it is merged or to update to the latest arora
   * git pull git://github.com/icefox/arora.git master
 
