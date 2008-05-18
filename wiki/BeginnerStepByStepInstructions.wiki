@@ -23,7 +23,7 @@ $ cd arora
 $ qmake
 $ make
 }}}
-Arora is now compiled. To run arora, simply run `./arora` from the current directory (`(path to original directory)/arora`).
+Arora is now compiled. To run arora, simply run `./arora` from the current directory.
 
 _*Optional*_: To update to the latest Arora in the future, you can issue these commands:
 {{{
