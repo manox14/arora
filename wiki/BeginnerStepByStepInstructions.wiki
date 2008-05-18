@@ -12,14 +12,7 @@ To see if git is installed, open up a terminal window and type `git`. If it is n
 
 _Note: you will also need a compiler chain. Mac users should install the xcode tools, Windows users should install cygwin/mingw, and Linux users should use their distro's manager. Windows users may also need to tweak a few aspects. Use google to figure this out._
 
-== Step 2: Open terminal and make code directory. ==
-Open your terminal. It is a good idea to make a directory to hold all the code we'll be downloading in your home folder. Issue these commands:
-{{{
-$ mkdir AroraCode
-$ cd AroraCode
-}}}
-
-== Step 3: Download and compile qt-snapshot. ==
+== Step 2: Download and compile qt-snapshot. ==
 If you already have qt 4.4 or greater installed, you can skip this step. Otherwise issue these commands to get the latest qt snapshot:
 {{{
 $ git clone --depth 1 git://labs.trolltech.com/qt-snapshot
@@ -31,26 +24,26 @@ Accept the licence. At the end of this, jot down the directory that qt will be i
 
 _*Optional*_: If you ever want to update the qt snapshot, you can issue these commands:
 {{{
-$ cd ~/AroraCode/qt-snapshot
+$ cd (path to original directory)/qt-snapshot
 $ git pull
 $ make && sudo make install
 }}}
 
-== Step 4: Download and compile the latest Arora. ==
+== Step 3: Download and compile the latest Arora. ==
 Now we will download the latest tree of Arora. Issue these commands:
 {{{
-$ cd ~/AroraCode
+$ cd ..
 $ git clone git://github.com/icefox/arora.git
 $ cd arora
 $ (path you jotted down where qt is installed)/bin/qmake
 On my machine, this looks like: /usr/local/Trolltech/Qt-4.5.0-snapshot-20080518/bin/qmake
 $ make
 }}}
-Arora is now compiled. To run arora, simply run `./arora` from the current directory (`~/AroraCode/arora`).
+Arora is now compiled. To run arora, simply run `./arora` from the current directory (`(path to original directory)/arora`).
 
 _*Optional*_: To update to the latest Arora in the future, you can issue these commands:
 {{{
-$ cd ~/AroraCode/arora
+$ cd (path to original directory)/arora
 $ git pull
 $ make
 }}}
