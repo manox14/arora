@@ -1,6 +1,6 @@
-#summary Step-by-Step Instructions to Run Arora
+#summary Step-by-Step Instructions to Run The Latest Arora
 
-= Step-by-Step Instructions to Run Arora =
+= Step-by-Step Instructions to Run The Latest Arora =
 
 == Introduction ==
 
