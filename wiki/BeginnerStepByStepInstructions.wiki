@@ -12,8 +12,10 @@ To see if git is installed, open up a terminal window and type `git`. If it is n
 
 _Note: you will also need a compiler chain. Mac users should install the xcode tools, Windows users should install cygwin/mingw, and Linux users should use their distro's manager. Windows users may also need to tweak a few aspects. Use google to figure this out._
 
-== Step 2: Download and compile qt-snapshot. ==
-If you already have qt 4.4 or greater installed, you can skip this step. Otherwise issue these commands to get the latest qt snapshot:
+== Step 2: Download and install Qt. ==
+If you already have qt 4.4 or greater installed, you can skip this step. To install qt 4.4, visit the [http://doc.trolltech.com/installation.html Official Install Instructions].
+
+_*Optional Alternative*_: Or if you're feeling adventurous, you can try out the latest Qt 4.5 snapshot. Issue these commands to get the latest qt snapshot:
 {{{
 $ git clone --depth 1 git://labs.trolltech.com/qt-snapshot
 $ cd qt-snapshot
