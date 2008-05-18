@@ -10,7 +10,7 @@ Arora is still in early development, which means that there are no compiled inst
 == Step 1: Make sure git is installed. ==
 To see if git is installed, open up a terminal window and type `git`. If it is not installed, the terminal will report back command not found. If it is installed, you'll receive the git help text. To install git: [http://code.google.com/p/msysgit/downloads/list Windows], [http://code.google.com/p/git-osx-installer/downloads/list?can=3 Mac], and for Linux, use your distro's package manager.
 
-_Note: you will also need a compiler chain. Mac users should install the xcode tools, Windows users should install cygwin/mingw, and linux users should use their distro's manager. Windows users may also need to tweak a few aspects. Use google to figure this out._
+_Note: you will also need a compiler chain. Mac users should install the xcode tools, Windows users should install cygwin/mingw, and Linux users should use their distro's manager. Windows users may also need to tweak a few aspects. Use google to figure this out._
 
 == Step 2: Open terminal and make code directory. ==
 Open your terminal. It is a good idea to make a directory to hold all the code we'll be downloading in your home folder. Issue these commands:
