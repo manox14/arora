@@ -15,6 +15,7 @@ On your local machine (if you haven't already) set your git user name and e-mail
   * Clone your forked repository onto your local machine
   * It is often convenient to make a branch for individual patches or fixes 'git checkout -b branchname master'
   * Make any changes and then do a 'git push origin' to have it uploaded to github
+  * It is encouraged to make autotests when possible.
   * Make a pull request http://github.com/guides/pull-requests to icefox
 
   * If you want an image to show up next to your commits on github you have to make an account on http://gravatar.com/
