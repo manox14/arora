@@ -1,0 +1,25 @@
+#summary How to contribute to Arora
+
+= Introduction =
+
+Quick tutorial on how to contribute to Arora.  Because we use git there are many different ways you can contribute, and here is just one way.
+
+= Details =
+
+On your local machine (if you haven't already) set your git user name and e-mail address
+  * git config --global user.name "Foo Bar"
+  * git config --global user.email "foo@example.com"
+
+  * Make an account on https://github.com/
+  * Goto http://github.com/icefox/arora/tree/master and click on the fork button
+  * clone the forked repository to your local machine
+  * if you want make a branch for your change
+  * make any changes, commit and then do a git push origin to have it uploaded to github
+  * Make a pull request http://github.com/guides/pull-requests to icefox
+
+After it is merged or to update to the latest arora
+  * git pull git://github.com/icefox/arora.git master
+
+Some more info on git
+  * http://trac.webkit.org/wiki/UsingGitWithWebKit
+  * http://ktown.kde.org/~zrusin/git/git-cheat-sheet-medium.png
