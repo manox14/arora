@@ -40,7 +40,7 @@ $ make && sudo make install
 Now we will download the latest tree of Arora. Issue these commands:
 {{{
 $ cd ~/AroraCode
-$ git clone --depth 1 git://github.com/icefox/arora.git
+$ git clone git://github.com/icefox/arora.git
 $ cd arora
 $ (path you jotted down where qt is installed)/bin/qmake
 On my machine, this looks like: /usr/local/Trolltech/Qt-4.5.0-snapshot-20080518/bin/qmake
