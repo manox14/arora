@@ -24,5 +24,6 @@ After it is merged or to update to the latest arora
   * git pull git://github.com/icefox/arora.git master
 
 Some more info on git
+  * http://trac.webkit.org/wiki/QtWebKitGitInstructions
   * http://trac.webkit.org/wiki/UsingGitWithWebKit
   * http://ktown.kde.org/~zrusin/git/git-cheat-sheet-medium.png
