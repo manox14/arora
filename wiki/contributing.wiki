@@ -12,9 +12,9 @@ On your local machine (if you haven't already) set your git user name and e-mail
 
   * Make an account on https://github.com/
   * Goto http://github.com/icefox/arora/tree/master and click on the fork button
-  * clone the forked repository to your local machine
-  * if you want make a branch for your change
-  * make any changes, commit and then do a git push origin to have it uploaded to github
+  * Clone your forked repository onto your local machine
+  * It is often convenient to make a branch for individual patches or fixes 'git checkout -b branchname master'
+  * Make any changes and then do a 'git push origin' to have it uploaded to github
   * Make a pull request http://github.com/guides/pull-requests to icefox
 
 After it is merged or to update to the latest arora
