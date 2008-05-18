@@ -15,31 +15,12 @@ _Note: you will also need a compiler chain. Mac users should install the xcode t
 == Step 2: Download and install Qt. ==
 If you already have qt 4.4 or greater installed, you can skip this step. To install qt 4.4, visit the [http://doc.trolltech.com/installation.html Official Install Instructions].
 
-=== Optional Alternative ===
-Or if you're feeling adventurous, you can try out the latest Qt 4.5 snapshot. Issue these commands to get the latest qt snapshot:
-{{{
-$ git clone --depth 1 git://labs.trolltech.com/qt-snapshot
-$ cd qt-snapshot
-$ ./configure -no-accessibility -no-exceptions -no-qt3support -nomake examples -nomake demos -nomake tools -nomake docs -nomake translations
-}}}
-
-Accept the licence. At the end of this, jot down the directory that qt will be installed into. On my computer it is `/usr/local/Trolltech/Qt-4.5.0-snapshot-20080518`. Now we are ready to compile and install qt. This will take a while. Type: `make && sudo make install` and press enter.
-
-_*Optional*_: If you ever want to update the qt snapshot, you can issue these commands:
-{{{
-$ cd (path to original directory)/qt-snapshot
-$ git pull
-$ make && sudo make install
-}}}
-
 == Step 3: Download and compile the latest Arora. ==
 Now we will download the latest tree of Arora. Issue these commands:
 {{{
-$ cd ..
 $ git clone git://github.com/icefox/arora.git
 $ cd arora
-$ (path you jotted down where qt is installed)/bin/qmake
-On my machine, this looks like: /usr/local/Trolltech/Qt-4.5.0-snapshot-20080518/bin/qmake
+$ qmake
 $ make
 }}}
 Arora is now compiled. To run arora, simply run `./arora` from the current directory (`(path to original directory)/arora`).
