@@ -26,7 +26,6 @@ DemoBrowser (general)
   * clear everything dialog (extension?)
   * cache SSL ignore's
   * http://www.explosm.net/comics/1226/ files that are downloaded, work around bug in file
-  * Fullscreen/maximize issue
   * QMenu with no parent for OS X
   * google search client so we stop being Safari
   * view source in right click menu
@@ -38,10 +37,7 @@ DemoBrowser (general)
   * bug (in master aka 4.5);  when I start browser I have no favicos in my  history menu.  When I select one entry from it (which changes the menu), or just wait a while and close and reopen the menu; I get all the favicos.  Race condition?
 
 DemoBrowser (maybe or nice to have or investigate later)
-  * Save find string per frame/view/tab
   * Download file ends with .download an then renamed?
-  * Close all message box, add a checkbox to not show again
-  * When there is only 1 tab the tabwidet should be "hidden"
 
 === Extensions ===
   * KWallet integration
