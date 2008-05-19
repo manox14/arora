@@ -15,7 +15,7 @@ _Note: you will also need a compiler chain. Mac users should install the xcode t
 == Step 2: Download and install Qt. ==
 If you already have qt 4.4 or greater installed, you can skip this step. To install qt 4.4, visit the [http://doc.trolltech.com/installation.html Official Install Instructions] and the [http://trolltech.com/downloads/opensource Download Page]. Be sure to add the correct PATH variable if required in the official install instructions.
 
-== _Alternative Method_: Step 2: Download and install qt-snapshot. ==
+== _Alternative Method_: Download and install qt-snapshot. ==
 Qt snapshot is the latest trolltech snapshot of the upcoming qt version. Issue these commands to get the latest qt snapshot:
 {{{
 $ git clone --depth 1 git://labs.trolltech.com/qt-snapshot
@@ -44,7 +44,7 @@ Arora is now compiled. To run arora, simply run `./arora` from the current direc
 
 _*Optional*_: To update to the latest Arora in the future, you can issue these commands:
 {{{
-$ cd (path to original directory)/arora
+$ cd arora
 $ git pull
 $ make
 }}}
