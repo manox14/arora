@@ -15,6 +15,8 @@ More information about git include tutorials and GUI tools can be found at http:
 
 == Building ==
 
+For beginner instructions, read [BeginnerStepByStepInstructions].
+
 Arora requires Qt version 4.4 or newer. Acquire Qt from http://www.trolltech.com/ : [http://doc.trolltech.com/installation.html Official Install Instructions] and [http://trolltech.com/downloads/opensource Download Page]. On Linux check with your distribution for packages.
 
 Simple steps to build Arora:
