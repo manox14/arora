@@ -44,5 +44,6 @@ _*Optional*_: To update to the latest Arora in the future, you can issue these c
 {{{
 $ cd arora
 $ git pull
+$ qmake
 $ make
 }}}
