@@ -13,7 +13,7 @@ To see if git is installed, open up a terminal window and type `git`. If it is n
 _Note: you will also need a compiler chain. Mac users should install the xcode tools, Windows users should install cygwin/mingw, and Linux users should use their distro's manager. Windows users may also need to tweak a few aspects. Use google to figure this out._
 
 == Step 2: Download and install Qt. ==
-If you already have qt 4.4 or greater installed, you can skip this step. To install qt 4.4, visit the [http://doc.trolltech.com/installation.html Official Install Instructions].
+If you already have qt 4.4 or greater installed, you can skip this step. To install qt 4.4, visit the [http://doc.trolltech.com/installation.html Official Install Instructions] and the [http://trolltech.com/downloads/opensource Download Page].
 
 == Step 3: Download and compile the latest Arora. ==
 Now we will download the latest tree of Arora. Issue these commands:
