@@ -6,16 +6,16 @@ To checkout a copy of the source execute the following command
 
  {{{ git clone git://github.com/icefox/arora.git }}}
 
-=== Browse ===
+== Browse ==
 
 To browse the source code go to: http://github.com/icefox/arora
 
 == Information about Git ==
 More information about git include tutorials and GUI tools can be found at http://git.or.cz/
 
-= Building =
+== Building ==
 
-Arora requires Qt version 4.4 or newer. Acquire Qt from http://www.trolltech.com/.  On Linux check with your distribution for binary packages.
+Arora requires Qt version 4.4 or newer. Acquire Qt from http://www.trolltech.com/ : [http://doc.trolltech.com/installation.html Official Install Instructions] and [http://trolltech.com/downloads/opensource Download Page]. On Linux check with your distribution for packages.
 
 Simple steps to build Arora:
 {{{
@@ -25,8 +25,10 @@ qmake
 make
 }}}
 
-Arora requires a build of Qt 4.4 preferably the 4.4.0 snapshot as the QtWebKit API has changed slightly since the rc1.  Arora will build with rc1, but you will see some connect errors on the command line and the progressbar in the line edit will never finish (the loadFinished signal signature was changed after the rc1).
+Arora requires a build of Qt 4.4, which was released May 6, 2008.
 
+
+=== Building with QtWebKit Trunk ===
 If you want to use Arora with QtWebKit trunk you need to get a copy WebKit trunk as well at Qt 4.4.  Setting the environment variable QT_WEBKIT and rebuilding Arora will cause it to use QtWebKit trunk.  See the file 'src/webkittrunk.pri' in Arora's source for more details and customizations you might need to do to point it to the location of your QtWebKit checkout.
 
 Simple steps to build QtWebKit trunk.
