@@ -18,7 +18,6 @@ This is short term dumping ground for bugs, tasks, ideas, and suggestions.
   * hover over history menu doesn't show up in statusbar on Linux
   * cookie need to accept sub domains
   * Network needs to use a cache
-  * file download name need to be determined from network header
   * right click on the left side of the toolbar the menu should be empty, but it shows the menu for the first item
   * can't log into Greenpages
 
