@@ -22,8 +22,6 @@ This is short term dumping ground for bugs, tasks, ideas, and suggestions.
   * can't log into Greenpages
 
 DemoBrowser (general)
-  * clear everything dialog (extension?)
-  * cache SSL ignore's
   * http://www.explosm.net/comics/1226/ files that are downloaded, work around bug in file
   * QMenu with no parent for OS X
   * google search client so we stop being Safari
