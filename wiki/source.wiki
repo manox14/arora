@@ -28,18 +28,18 @@ make
 }}}
 
 === Building with QtWebKit Trunk ===
-If you want to use Arora with QtWebKit trunk you need to get a copy WebKit trunk as well at Qt 4.4.  Setting the environment variable QT_WEBKIT and rebuilding Arora will cause it to use QtWebKit trunk.  See the file 'src/webkittrunk.pri' in Arora's source for more details and customizations you might need to do to point it to the location of your QtWebKit checkout.
+If you want to use Arora with QtWebKit trunk you need to get a copy WebKit trunk as well at Qt 4.4.  Setting the environment variables QT_WEBKIT and WEBKITHOME and rebuilding Arora will cause it to use QtWebKit trunk.  See the file 'src/webkittrunk.pri' in Arora's source for more details and customizations you might need to do to point it to the location of your QtWebKit checkout.
 
-Simple steps to build QtWebKit trunk.
+Simple steps to build QtWebKit trunk and Arora with the trunk:
 
 {{{
-git clone git://code.staikos.net/webkit 
-cd webkit
-git checkout -b trunk origin/svn/master  
-./WebKitTools/Scripts/build-webkit --qt debug
-export QT_WEBKIT=webkit_trunk
-
-edit src/webkittrunk.pri and set the WEBKITHOME location
-
-Now run 'qmake; make clean; make' in Arora
+$ git clone git://code.staikos.net/webkit 
+$ cd webkit
+$ git checkout -b trunk origin/svn/master  
+$ ./WebKitTools/Scripts/build-webkit --qt debug
+$ export QT_WEBKIT=webkit_trunk
+$ export WEBKITHOME=/path/to/webkit
+$ qmake
+$ make clean
+$ make
 }}}
