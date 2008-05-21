@@ -4,12 +4,7 @@ URL bar:
   * Search by any part of the URL. For example, if I had previously visited http://www.linux.org.ru/view-all.jsp, I expect it to come up when searching for “lin” or “view”.
   * Better cooperation with faulty themes. The bar shouldn’t go all black just because the QtCurve and GTK themes draw gradients incorrectly.
 
-Tabs:
-  * Close button on each tab (not possible until Qt 4.5?).
-  * Closing by middle click
-
 Search box:
-
   * Google Suggest dropdown list
   * Support for local search engines via OpenSearch (implemented in midori, which uses webkit-gtk)
 
