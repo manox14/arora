@@ -1,4 +1,5 @@
 #summary Step-by-Step Instructions to Run The Latest Arora
+#labels Featured,Phase-Deploy
 
 = Step-by-Step Instructions to Run The Latest Arora =
 
