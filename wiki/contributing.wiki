@@ -1,4 +1,5 @@
-#summary How to contribute to Arora
+#summary How to Contribute to Arora
+#labels Featured,Phase-Implementation
 
 = Introduction =
 
