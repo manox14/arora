@@ -36,5 +36,5 @@ lupdate src/src.pro
 The new translation will now be integrated into both Unix installations (`make install`) and the Windows installer created by the `windowsinstaller.nsi` script.
 
 To ask the developers to add the translation to the main source tree, you can:
-* Create an issue in the Google Code issue tracker, with a summary like "Add translation into the X language" (or "Update X translation" if one already exists), and attach the .ts file.
-* Alternatively, create a github.com branch with your translation, as outlined in [contributing].
+  * Create an issue in the Google Code issue tracker, with a summary like "Add translation into the X language" (or "Update X translation" if one already exists), and attach the .ts file.
+  * Alternatively, create a github.com branch with your translation, as outlined in [contributing].
