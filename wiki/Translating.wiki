@@ -1,0 +1,39 @@
+#summary Translating Arora into other languages
+
+This page contains instructions that you could use to contribute to Arora by translating its interface into another language. 
+
+= Instructions =
+
+  * Download the latest source code from git. See [source] for instructions on how to do that and set up a Qt development environment.
+  * Open the file src/src.pro. If your ISO language code (two letters) is not in the TRANSLATIONS section, add it to the list:
+
+{{{
+TRANSLATIONS += \
+  locale/xx.ts \     # line to add, replace xx with your language code
+  locale/de.ts \
+  locale/en.ts \
+...
+}}}
+
+  Do not bother to actually create the file, lupdate will do this for you.
+  * Run this command:
+
+{{{
+lupdate src/src.pro
+}}}
+
+  or under Windows:
+
+{{{
+(path to Qt bin directory)\lupdate.exe src\src.pro
+}}}
+
+  * Open the src/locale directory inside the source. It should now contain the .ts file for your language.
+  * Open the file in Qt Linguist. If you need help using that program, see [http://doc.trolltech.com/4.4/linguist-manual.html the official Qt Linguist documentation].
+  * Save the file when you're finished translating.
+
+The new translation will now be integrated into both Unix installations (`make install`) and the Windows installer created by the `windowsinstaller.nsi` script.
+
+To ask the developers to add the translation to the main source tree, you can:
+* Create an issue in the Google Code issue tracker, with a summary like "Add translation into the X language" (or "Update X translation" if one already exists), and attach the .ts file.
+* Alternatively, create a github.com branch with your translation, as outlined in [contributing].
