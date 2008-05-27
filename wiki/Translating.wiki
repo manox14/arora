@@ -1,4 +1,5 @@
 #summary Translating Arora into other languages
+#labels Featured
 
 This page contains instructions that you could use to contribute to Arora by translating its interface into another language. 
 
