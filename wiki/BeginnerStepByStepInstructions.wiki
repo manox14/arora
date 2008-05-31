@@ -49,3 +49,5 @@ $ make distclean
 $ qmake
 $ make
 }}}
+
+Under Debian-based systems, including Debian and Ubuntu, use `qmake-qt4` instead of `qmake`. You will need to install the `libqt4-dev` package, which is available in Debian testing, as well as Ubuntu 8.04 in the `hardy-backports` repository.
