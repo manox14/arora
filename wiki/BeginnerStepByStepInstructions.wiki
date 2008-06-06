@@ -34,7 +34,7 @@ $ make && sudo make install
 == Step 3: Download and compile the latest Arora. ==
 Now we will download the latest tree of Arora. Issue these commands:
 {{{
-$ git clone git://github.com/icefox/arora.git
+$ git clone git://github.com/arora/arora.git
 $ cd arora
 $ qmake
 $ make
