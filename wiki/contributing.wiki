@@ -22,7 +22,7 @@ On your local machine (if you haven't already) set your git user name and e-mail
   * If you want an image to show up next to your commits on github you have to make an account on http://gravatar.com/
 
 After it is merged or to update to the latest arora
-  * git pull git://github.com/icefox/arora.git master
+  * git pull git://github.com/arora/arora.git master
 
 Some more info on git
   * http://trac.webkit.org/wiki/QtWebKitGitInstructions
