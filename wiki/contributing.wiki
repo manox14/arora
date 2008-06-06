@@ -12,7 +12,7 @@ On your local machine (if you haven't already) set your git user name and e-mail
   * git config --global user.email "foo@example.com"
 
   * Make an account on https://github.com/
-  * Goto http://github.com/arora/arora/tree/master and click on the fork button
+  * Goto http://github.com/arora/Arora/tree/master and click on the fork button
   * Clone your forked repository onto your local machine
   * It is often convenient to make a branch for individual features or fixes 'git checkout -b branchname master'
   * Make any changes and then do a 'git push origin' to have it uploaded to github
@@ -22,7 +22,7 @@ On your local machine (if you haven't already) set your git user name and e-mail
   * If you want an image to show up next to your commits on github you have to make an account on http://gravatar.com/
 
 After it is merged or to update to the latest arora
-  * git pull git://github.com/arora/arora.git master
+  * git pull git://github.com/Arora/arora.git master
 
 Some more info on git
   * http://trac.webkit.org/wiki/QtWebKitGitInstructions
