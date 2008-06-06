@@ -4,11 +4,11 @@
 
 To checkout a copy of the source execute the following command
 
- {{{ git clone git://github.com/arora/arora.git }}}
+ {{{ git clone git://github.com/Arora/arora.git }}}
 
 == Browse ==
 
-To browse the source code go to: http://github.com/arora/arora
+To browse the source code go to: http://github.com/Arora/arora
 
 == Information about Git ==
 More information about git include tutorials and GUI tools can be found at http://git.or.cz/
@@ -21,7 +21,7 @@ Arora requires Qt version 4.4 or newer. Get Qt from http://www.trolltech.com/ : 
 
 Simple steps to build Arora:
 {{{
-git clone git://github.com/arora/arora.git
+git clone git://github.com/Arora/arora.git
 cd arora
 qmake
 make
