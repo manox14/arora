@@ -17,23 +17,19 @@ This is short term dumping ground for bugs, tasks, ideas, and suggestions.
 === Qt Issues ===
   * hover over history menu doesn't show up in statusbar on Linux
   * cookie need to accept sub domains
-  * Network needs to use a cache
+  * http needs a cache
   * right click on the left side of the toolbar the menu should be empty, but it shows the menu for the first item
-  * can't log into Greenpages
 
-DemoBrowser (general)
-  * http://www.explosm.net/comics/1226/ files that are downloaded, work around bug in file
+general
   * QMenu with no parent for OS X
-  * google search client so we stop being Safari
   * view source in right click menu
   * syntax highlight in source view, find in source view
   * multiple start pages with a '|'
   * error pages screw up history
   * Enable the page cache in QtWebKit (see QWebSettings for that), a simple calculation like having 10 tabs with forward and back should work fast you are at 20 pages.
   * Make sure you have a homepage set (trolltech.com is fine), and start browser.  It takes a while before loading is completed (before you see the 'stop' change into reload) and in that time the location bar is set to the current value several times. Which is damn annoying when I try to type a new location ;) I expect that whatever the state, if I start typing in the location bar, browser will not overwrite it again with a new value.
-  * bug (in master aka 4.5);  when I start browser I have no favicos in my  history menu.  When I select one entry from it (which changes the menu), or just wait a while and close and reopen the menu; I get all the favicos.  Race condition?
 
-DemoBrowser (maybe or nice to have or investigate later)
+Misc (maybe or nice to have or investigate later)
   * Download file ends with .download an then renamed?
 
 === Extensions ===
@@ -44,7 +40,6 @@ DemoBrowser (maybe or nice to have or investigate later)
   * Start page of the Top 10 sites in the history
 
 === Urllineedit ===
-  * fix layout of left and right object in reverse mode.
   * gradient in OS X
   * completer menu is not to the edges of the line edit
 
