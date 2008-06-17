@@ -1,33 +1,27 @@
 #summary The Unsorted drop zone
 
-Todo file for Arora
-
 = Introduction =
 
 This is short term dumping ground for bugs, tasks, ideas, and suggestions.
 
 === QtWebKit Issues ===
   * http://torchrelay.beijing2008.cn/en/journey/map/ show box or something when someone wants flash
-  * Is the page secure?
   * Find, hit enter, link isn't followed
   * In statusbar: "Loading "url", completed 66 of 74 items"
   * [205030] http://en.wikipedia.org/wiki/Austrian_economics assert on OS X
-  * [205252] put address in maps.google.com, progressbar doesn't fill all the way
+  * error pages screw up history
  
 === Qt Issues ===
-  * hover over history menu doesn't show up in statusbar on Linux
-  * cookie need to accept sub domains
+  * hover over history menu doesn't show up in statusbar on OS X
   * http needs a cache
   * right click on the left side of the toolbar the menu should be empty, but it shows the menu for the first item
 
-general
+=== general ===
   * QMenu with no parent for OS X
   * view source in right click menu
   * syntax highlight in source view, find in source view
-  * multiple start pages with a '|'
-  * error pages screw up history
   * Enable the page cache in QtWebKit (see QWebSettings for that), a simple calculation like having 10 tabs with forward and back should work fast you are at 20 pages.
-  * Make sure you have a homepage set (trolltech.com is fine), and start browser.  It takes a while before loading is completed (before you see the 'stop' change into reload) and in that time the location bar is set to the current value several times. Which is damn annoying when I try to type a new location ;) I expect that whatever the state, if I start typing in the location bar, browser will not overwrite it again with a new value.
+  * Start browser.  It takes a while before loading is completed (before you see the 'stop' change into reload) and in that time the location bar is set to the current value several times. Which is damn annoying when I try to type a new location ;) I expect that whatever the state, if I start typing in the location bar, browser will not overwrite it again with a new value.
 
 Misc (maybe or nice to have or investigate later)
   * Download file ends with .download an then renamed?
@@ -39,19 +33,9 @@ Misc (maybe or nice to have or investigate later)
   * Maybe could help with scripting design http://amarok.kde.org/blog/archives/611-Scriptable-Services.html
   * Start page of the Top 10 sites in the history
 
-=== Urllineedit ===
-  * gradient in OS X
-  * completer menu is not to the edges of the line edit
-
-=== Bookmarks ===
-  * Bookmark dialog?
-  * drop bookmarks file on demo
-
 === Bookmarks Dialog===
   * Select a bunch and move, order reversed, screwed up
   * Select multiple, right click and delete
-  * Can't delete a folder if it has items, right click menu item should be disabled
-  * Flesh out right click menu
 
 === Bookmark Bar ===
   * drop url on tab bar ether opening a new url or when on a tab in that tab
@@ -59,12 +43,7 @@ Misc (maybe or nice to have or investigate later)
   * flesh out right click menu on bookmarks toolbar
 
 === History/Bookmarks ===
-  * Put the bookmark manager with history manager in a tab so the undo/redo can appear in the menu
-  * View local Bonjor Servers
   * http://live.gnome.org/Epiphany/BookmarksHistoryIntegration
-
-=== History Dialog ===
-  * Be able to select/delete multiple items at a time
 
 History data
   * how long, when does the page close
