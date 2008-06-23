@@ -2,7 +2,7 @@
 
 = Introduction =
 
-This is short term dumping ground for bugs, tasks, ideas, and suggestions.
+This is short term dumping ground for bugs, tasks, ideas, and suggestions, the TODO file from before the project was hosted on Google.
 
 === QtWebKit Issues ===
   * Find, hit enter, link isn't followed
@@ -11,7 +11,6 @@ This is short term dumping ground for bugs, tasks, ideas, and suggestions.
   * error pages screw up history
  
 === Qt Issues ===
-  * hover over history menu doesn't show up in statusbar on OS X
   * http needs a cache
   * right click on the left side of the toolbar the menu should be empty, but it shows the menu for the first item
 
