@@ -30,6 +30,7 @@ Misc (maybe or nice to have or investigate later)
   * GreaseMonkey
   * Maybe could help with scripting design http://amarok.kde.org/blog/archives/611-Scriptable-Services.html
   * Start page of the Top 10 sites in the history
+  * http://www.cerias.purdue.edu/site/blog/post/security-extensions-for-firefox/
 
 === Bookmarks Dialog===
   * Select a bunch and move, order reversed, screwed up
