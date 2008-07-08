@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Arora uses the same coding style as Qt.  If you use the git_hooks there is a pre-commit_checkstyle that will warn you of style errors.  Keeping the code consistant is important for readability both for fixing bugs and bringing in new users.
+Arora uses the same coding style as Qt.  If you use the git_hooks there is a pre-commit_checkstyle that will warn you of style errors.  Keeping the code consistant is important for readability both for fixing bugs and bringing in new developers.
 
 === Indentation ===
 
