@@ -19,10 +19,8 @@ Qt snapshot is the latest trolltech snapshot of the upcoming qt version. Choose 
 {{{
 $ git clone --depth 1 git://labs.trolltech.com/qt-snapshot
 $ cd qt-snapshot
-$ ./configure -no-accessibility -no-exceptions -no-qt3support -nomake examples -nomake demos -nomake tools -nomake docs
-}}} 
-
-Note: The windows configure does not have -nomake so you have to remove those options
+$ ./configure -no-accessibility -no-exceptions -no-qt3support
+}}}
 
 Accept the licence. At the end of this, jot down the directory that qt will be installed into. On my computer it is `/usr/local/Trolltech/Qt-4.5.0-snapshot-20080518`. Now we are ready to compile and install qt. This will take a while. Type: `make && sudo make install` and press enter. Be sure to add the bin directory inside of installation directory to your PATH: `export PATH="/usr/local/Trolltech/Qt-4.5.0-snapshot-20080518/bin:$PATH"`. Be sure to use the directory given by the configure script, and not the one used here as an example.
 
