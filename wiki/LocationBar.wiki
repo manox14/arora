@@ -1,0 +1,17 @@
+#summary Notes about the location bar
+
+= Introduction =
+
+Currently the location bar is primitive and just based upon the history.  Below are notes to make a better location bar.
+
+
+Matches:
+
+Full url from the beginning of the string
+Strip scheme and complete on host/domain from the start of the string
+string search in the url
+string search in the title
+
+Sorting:
+Primary sorting goes by the most recently visited
+Then If a site has been visited more then once top of the week
