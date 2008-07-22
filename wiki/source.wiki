@@ -38,7 +38,7 @@ $ cd WebKit
 $ ./WebKitTools/Scripts/build-webkit --qt --release
 }}}
 
-WebKit will be built in the subdirectory WebKitBuild/Release/
+*!WebKit* will be built in the subdirectory *!WebKitBuild*/Release/
 
 And the build Arora with it:
 
