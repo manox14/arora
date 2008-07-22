@@ -35,15 +35,17 @@ Simple steps to build QtWebKit trunk:
 {{{
 $ svn checkout http://svn.webkit.org/repository/webkit/trunk WebKit
 $ cd WebKit
-$ ./WebKitTools/Scripts/build-webkit --qt 
+$ ./WebKitTools/Scripts/build-webkit --qt --release
 }}}
+
+WebKit will be built in the subdirectory WebKitBuild/Release/
 
 And the build Arora with it:
 
 {{{
 $ cd /path/to/arora/source
 $ export QT_WEBKIT=webkit_trunk
-$ export WEBKITHOME=/path/to/webkit
+$ export WEBKITBUILD=/path/to/webkit/WebKitBuild/Release
 $ qmake
 $ make clean
 $ make
