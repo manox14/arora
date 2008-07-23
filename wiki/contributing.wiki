@@ -27,4 +27,6 @@ After it is merged or to update to the latest arora
 Some more info on git
   * http://trac.webkit.org/wiki/QtWebKitGitInstructions
   * http://trac.webkit.org/wiki/UsingGitWithWebKit
+  * http://excess.org/article/2008/07/ogre-git-tutorial/
+  * http://www.gitcasts.com/
   * http://ktown.kde.org/~zrusin/git/git-cheat-sheet-medium.png
