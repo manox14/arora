@@ -30,6 +30,7 @@ qt_source_directory> configure.exe -release -shared -no-exceptions -webkit -phon
 qt_source_directory> nmake
 }}}
 Replace `<openssl_source_directory>` with the real location.
+
 _Note: You may experience compiler errors relating to openssl header files. Refer to the comment above about OpenSSL maybe being broken._
 
 3. Add `qt_source_directory\bin` to your `PATH`.
