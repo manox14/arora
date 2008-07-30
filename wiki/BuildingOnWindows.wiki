@@ -38,4 +38,8 @@ Download and compile Arora using [source this wiki's instructions].
 ==Step 4: NSIS Installer==
 1. Download and install [http://nsis.sourceforge.net/Download NSIS].
 
-2
+2. Edit the hard-coded directory paths in `arora_source_directory\windowsinstaller.nsi` to reflect the appropriate location of the libraries installed above. Also edit the location and file for the Visual C++ redistributable package to reflect the version of Visual C++ you used to compile.
+
+3. Compile `arora_source_directory\windowsinstaller.nsi` with the NSIS compiler by right clicking on the file and choosing "Compile NSIS Script" or by using the NSIS compiler interface directly.
+
+4. Run the output installer file titled "Arora Snapshot (Date) Installer.exe".
