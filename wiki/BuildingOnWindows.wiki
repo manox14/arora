@@ -7,6 +7,8 @@ Building on Windows is complex and nuanced, and the specifics of the steps will 
 
 =Details=
 ==Step 1: OpenSSL==
+_Note: if you are using the same compiler as [http://www.slproweb.com/products/Win32OpenSSL.html Shining Light's Win32 OpenSSL Build], you may skip this step by using the DLLs included in the installer. Note the location where the installer copies the applicable DLLs._
+
 1. Download and install [http://www.activestate.com/store/download.aspx?prdGUID=81fbce82-6bd5-49bc-a915-08d58c2648ca ActivePerl].
 
 2. Download the [http://www.openssl.org/source/ OpenSSL source], and extract it somewhere. 
@@ -17,7 +19,7 @@ perl_source_directory> perl Configure VC-WIN32
 perl_source_directory> ms\do_masm
 perl_source_directory> nmake -f ms\ntdll.mak
 }}}
-_Note: depending on how broken the current OpenSSL release is on Win32, you may have to edit some of the perl build files. This may include adding a few lines to strip out nasty characters, adding defines to headers, or other hackishness. Put on your thinking cap, use google, and figure out how to fix the problems that will most likely occur.
+_Note: depending on how broken the current OpenSSL release is on Win32, you may have to edit some of the perl build files. This may include adding a few lines to strip out nasty characters, adding defines to headers, or other hackishness. Put on your thinking cap, use google, and figure out how to fix the problems that will most likely occur._
 
 ==Step 2: Qt==
 1. Download the source of either the latest release of qt or the latest snapshot, and extract it somewhere.
@@ -35,3 +37,5 @@ Download and compile Arora using [source this wiki's instructions].
 
 ==Step 4: NSIS Installer==
 1. Download and install [http://nsis.sourceforge.net/Download NSIS].
+
+2
