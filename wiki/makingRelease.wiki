@@ -8,3 +8,6 @@ Update changelog, Make a git tag, bump version
 
 Make a tag like below and upload to google
 git archive --format=tar --prefix=arora-0.2/ HEAD | gzip >arora-0.2.tar.gz
+
+= binary packages == 
+see BuildingOnWindows
