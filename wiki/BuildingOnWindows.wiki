@@ -34,7 +34,7 @@ Replace `<openssl_source_directory>` with the real location.
 
 _Note: You may experience compiler errors relating to openssl header files. Refer to the comment above about OpenSSL maybe being broken._
 
-3. Add `qt_source_directory\bin` to your `PATH`.
+3. Add `<qt_source_directory>\bin` to your `PATH`.
 
 ==Step 3: Arora==
 Download and compile Arora using [source this wiki's instructions] from the Visual C++ command prompt.
