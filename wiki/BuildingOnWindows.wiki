@@ -8,7 +8,9 @@ Building on Windows is complex and nuanced, and the specifics of the steps will 
 =Details=
 ==Step 1: OpenSSL==
 1. Download and install [http://www.activestate.com/store/download.aspx?prdGUID=81fbce82-6bd5-49bc-a915-08d58c2648ca ActivePerl].
+
 2. Download the OpenSSL [http://www.openssl.org/source/ source], and extract it somewhere. 
+
 3. Build from the Visual C++ command line:
 {{{ 
 perl_source_directory> perl Configure VC-WIN32
@@ -19,12 +21,17 @@ _Note: depending on how broken the current OpenSSL release is on Win32, you may 
 
 ==Step 2: Qt==
 1. Download the source of either the latest release of qt or the latest snapshot, and extract it somewhere.
+
 2. Run the configure.exe script with the following options and `nmake` from the Visual C++ command prompt:
 {{{
 qt_source_directory> configure.exe -release -shared -no-exceptions -webkit -phonon -no-qt3support -no-opengl -openssl -fast
 qt_source_directory> nmake
 }}}
-3. Add `qt_source_directory\bin` to your path in vcvars32 or where ever else you prefer.
+
+3. Add `qt_source_directory\bin` to your `PATH`.
 
 ==Step 3: Arora==
-Download and compile Arora using the s
+Download and compile Arora using [source this wiki's instructions].
+
+==Step 4: NSIS Installer==
+1. Download and install [http://nsis.sourceforge.net/Download NSIS].
