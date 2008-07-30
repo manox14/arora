@@ -3,7 +3,7 @@
 
 =Introduction=
 
-Building on Windows is complex and nuanced, and the specifics of the steps will greatly depend on your Windows and software configuration and the particular choices you make for setting up your toolchain. This outline offers instructions on building with Visual C++ and assumes that you already have a working compiler and platform SDK. 
+Building on Windows is complex and nuanced, and the specifics of the steps will greatly depend on your Windows and software configuration and the particular choices you make in setting up your toolchain. This outline offers instructions on building with Visual C++ and assumes that you already have a working compiler and platform SDK. 
 
 =Details=
 ==Step 1: OpenSSL==
