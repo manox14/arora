@@ -9,7 +9,7 @@ Building on Windows is complex and nuanced, and the specifics of the steps will 
 ==Step 1: OpenSSL==
 1. Download and install [http://www.activestate.com/store/download.aspx?prdGUID=81fbce82-6bd5-49bc-a915-08d58c2648ca ActivePerl].
 
-2. Download the OpenSSL [http://www.openssl.org/source/ source], and extract it somewhere. 
+2. Download the [http://www.openssl.org/source/ OpenSSL source], and extract it somewhere. 
 
 3. Build from the Visual C++ command line:
 {{{ 
