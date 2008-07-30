@@ -26,7 +26,7 @@ _Note: depending on how broken the current OpenSSL release is on Win32, you may 
 
 2. Run the configure.exe script with the following options and `nmake` from the Visual C++ command prompt:
 {{{
-qt_source_directory> configure.exe -release -shared -no-exceptions -webkit -phonon -no-qt3support -no-opengl -openssl -fast -I <openssl_source_directory>\include -L <openssl_source_directory>\out32dll
+qt_source_directory> configure.exe -release -shared -no-exceptions -webkit -phonon -no-qt3support -no-opengl -openssl-linked -fast -I <openssl_source_directory>\include -L <openssl_source_directory>\out32dll
 qt_source_directory> nmake
 }}}
 Replace `<openssl_source_directory>` with the real location.
