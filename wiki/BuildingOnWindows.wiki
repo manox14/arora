@@ -7,7 +7,7 @@ Building on Windows is complex and nuanced, and the specifics of the steps will 
 
 =Details=
 ==Step 1: OpenSSL==
-_Note: if you are using the same compiler as [http://www.slproweb.com/products/Win32OpenSSL.html Shining Light's Win32 OpenSSL Build], you may skip this step by using the DLLs included in the installer. Note the location where the installer copies the applicable DLLs._
+_Note: if you are using the same compiler as [http://www.slproweb.com/products/Win32OpenSSL.html Shining Light's Win32 OpenSSL Build], you may skip this step by using the DLLs included in the installer. You should note the location where the installer copies the applicable DLLs._
 
 1. Download and install [http://www.activestate.com/store/download.aspx?prdGUID=81fbce82-6bd5-49bc-a915-08d58c2648ca ActivePerl].
 
