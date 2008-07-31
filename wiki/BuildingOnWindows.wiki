@@ -3,7 +3,7 @@
 
 =Introduction=
 
-Building on Windows is complex and nuanced, and the specifics of the steps will greatly depend on your Windows and software configuration and the particular choices you make in setting up your toolchain. This outline offers instructions on building with Visual C++ and assumes that you already have a working compiler and platform SDK. 
+Building on Windows is complex and nuanced, and the specifics of the steps will greatly depend on your Windows and software configuration and the particular choices you make in setting up your toolchain. This outline offers instructions on building with Visual C++ and assumes that you already have a working compiler and platform SDK. See [http://en.wikipedia.org/wiki/Microsoft_Windows_SDK [1]] and [http://www.microsoft.com/downloads/details.aspx?FamilyId=E6E1C3DF-A74F-4207-8586-711EBE331CDC&displaylang=en [2]].
 
 
 =Details=
