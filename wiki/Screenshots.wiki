@@ -13,7 +13,7 @@ Here are some screenshots of Arora in action and on different platforms.
 === KDE 4.1 using Oxygen style and the Czech translation ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231448768262933634 http://lh4.ggpht.com/icefox/SJnW7_T3jII/AAAAAAAAARU/Kf4fdDSQmJM/s288/desktop_kde4.png]
 
-=== OS X ===
+=== Mac OS X ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231445866182309234 http://lh5.ggpht.com/icefox/SJnUTEN7dXI/AAAAAAAAAQ0/J7DU4q3kHWA/s288/desktop_osx.png]
 
 === Windows XP ===
