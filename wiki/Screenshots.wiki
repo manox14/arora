@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Add your content here.
+Here are some screenshots of Arora in action and on different platforms.
 
 === Gnome ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439625707320322 http://lh4.ggpht.com/icefox/SJnOn0ov9AI/AAAAAAAAAPk/gA6RzLPBpm4/s288/desktop_gnome.png]
@@ -12,3 +12,6 @@ Add your content here.
 
 === Windows XP ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439829007438242 http://lh5.ggpht.com/icefox/SJnOzp_RkaI/AAAAAAAAAP0/2WjgQvF4jKQ/s288/desktop_xp.png]
+
+=== WebKit Inspector ===
+[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439836919645346 http://lh6.ggpht.com/icefox/SJnO0HdsRKI/AAAAAAAAAQM/R2th7KHwkuM/s288/inspector_network.png]
