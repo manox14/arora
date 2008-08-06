@@ -13,5 +13,19 @@ Here are some screenshots of Arora in action and on different platforms.
 === Windows XP ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439829007438242 http://lh5.ggpht.com/icefox/SJnOzp_RkaI/AAAAAAAAAP0/2WjgQvF4jKQ/s288/desktop_xp.png]
 
-=== WebKit Inspector ===
+=== Inspector Network ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439836919645346 http://lh6.ggpht.com/icefox/SJnO0HdsRKI/AAAAAAAAAQM/R2th7KHwkuM/s288/inspector_network.png]
+
+=== Inspector Documents ===
+[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439838670741538
+http://lh5.ggpht.com/icefox/SJnO0N_L4CI/AAAAAAAAAQE/HAAKD8Z75-U/s288/inspector_document.png]
+
+=== Right to Left Support ===
+
+[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439838235934466 http://lh3.ggpht.com/icefox/SJnO0MXhPwI/AAAAAAAAAQU/Yf2VGY4TmZM/s288/reverse.png]
+
+=== Private Browsing ===
+[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231440234982276114 http://lh4.ggpht.com/icefox/SJnPLSXN_BI/AAAAAAAAAQc/Im4ME794t6w/s400/privatebrowsing.png]
+
+=== Flash support ===
+[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231440469271405906 http://lh3.ggpht.com/icefox/SJnPY7KGZVI/AAAAAAAAAQk/kfewd-TEtEg/s288/bunny.png]
