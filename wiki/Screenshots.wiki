@@ -4,9 +4,11 @@
 
 Add your content here.
 
-
-=== Gnome Style ===
+=== Gnome ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439625707320322 http://lh4.ggpht.com/icefox/SJnOn0ov9AI/AAAAAAAAAPk/gA6RzLPBpm4/s288/desktop_gnome.png]
 
-=== KDE Style ===
+=== KDE 3.x ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439627693449682 http://lh6.ggpht.com/icefox/SJnOn8CR4dI/AAAAAAAAAPs/v4HS_cAyWiA/s288/desktop_kde.png]
+
+=== Windows XP ===
+[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439829007438242 http://lh5.ggpht.com/icefox/SJnOzp_RkaI/AAAAAAAAAP0/2WjgQvF4jKQ/s288/desktop_xp.png]
