@@ -31,3 +31,12 @@ Here are some screenshots of Arora in action and on different platforms.
 
 === Flash support ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231440469271405906 http://lh3.ggpht.com/icefox/SJnPY7KGZVI/AAAAAAAAAQk/kfewd-TEtEg/s288/bunny.png]
+
+=== History and Bookmarks Manager ===
+[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231447869449907874 http://lh5.ggpht.com/icefox/SJnWHq-JLqI/AAAAAAAAAQ8/7J8njuEAxlM/s288/bookmark_history_manager.png]
+
+=== Cookie Manager ===
+[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439622280884994 http://lh4.ggpht.com/icefox/SJnOnn30swI/AAAAAAAAAPc/Us9HEs893d8/s144/cookie_manager.png]
+
+=== Cookie Exceptions ===
+[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439623965364322 http://lh3.ggpht.com/icefox/SJnOnuJb0GI/AAAAAAAAAPU/YmrjEiJ2FVY/s288/cookie_exceptions.png]
