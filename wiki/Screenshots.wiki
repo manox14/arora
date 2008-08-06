@@ -4,13 +4,13 @@
 
 Here are some screenshots of Arora in action and on different platforms.
 
-=== Gnome ===
+=== Gnome Using the QtGtk style to render using the current gtk style ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439625707320322 http://lh4.ggpht.com/icefox/SJnOn0ov9AI/AAAAAAAAAPk/gA6RzLPBpm4/s288/desktop_gnome.png]
 
-=== KDE 3.x ===
+=== KDE 3.x using the Platique style ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439627693449682 http://lh6.ggpht.com/icefox/SJnOn8CR4dI/AAAAAAAAAPs/v4HS_cAyWiA/s288/desktop_kde.png]
 
-=== KDE 4.x ===
+=== KDE 4.1 using Oxygen style and the czech translation ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231448768262933634 http://lh4.ggpht.com/icefox/SJnW7_T3jII/AAAAAAAAARU/Kf4fdDSQmJM/s288/desktop_kde4.png]
 
 === OS X ===
@@ -18,6 +18,8 @@ Here are some screenshots of Arora in action and on different platforms.
 
 === Windows XP ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439829007438242 http://lh5.ggpht.com/icefox/SJnOzp_RkaI/AAAAAAAAAP0/2WjgQvF4jKQ/s288/desktop_xp.png]
+
+Once Inspector is enabled (in the tools menu) you can right click at any point to bring up the inspector.
 
 === Inspector Network ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439836919645346 http://lh6.ggpht.com/icefox/SJnO0HdsRKI/AAAAAAAAAQM/R2th7KHwkuM/s288/inspector_network.png]
@@ -32,8 +34,12 @@ Here are some screenshots of Arora in action and on different platforms.
 === Private Browsing ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231440234982276114 http://lh4.ggpht.com/icefox/SJnPLSXN_BI/AAAAAAAAAQc/Im4ME794t6w/s400/privatebrowsing.png]
 
+When compiled against WebKit trunk you get support for netscape plugins, including flash and youtube.
+
 === Flash support ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231440469271405906 http://lh3.ggpht.com/icefox/SJnPY7KGZVI/AAAAAAAAAQk/kfewd-TEtEg/s288/bunny.png]
+
+Bookmarks are stored in the standardized XBel format.
 
 === History and Bookmarks Manager ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231447869449907874 http://lh5.ggpht.com/icefox/SJnWHq-JLqI/AAAAAAAAAQ8/7J8njuEAxlM/s288/bookmark_history_manager.png]
@@ -43,3 +49,6 @@ Here are some screenshots of Arora in action and on different platforms.
 
 === Cookie Exceptions ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439623965364322 http://lh3.ggpht.com/icefox/SJnOnuJb0GI/AAAAAAAAAPU/YmrjEiJ2FVY/s288/cookie_exceptions.png]
+
+=== Download Manager ===
+[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231447871415160402 http://lh5.ggpht.com/icefox/SJnWHySsjlI/AAAAAAAAARM/ifVxqlGpMNU/s288/downloads.png]
