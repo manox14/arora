@@ -4,6 +4,10 @@
 
 Here are some screenshots of Arora in action and on different platforms.
 
+= Styles =
+
+Using Qt Arora integrates very well with every platform.  From picking up your current Gnome icons for the back and forward button to the Unified toolbar style on OS X Arora tries hard to integrate with your desktop.
+
 === Gnome Using the QtGtk style to render using the current gtk style ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439625707320322 http://lh4.ggpht.com/icefox/SJnOn0ov9AI/AAAAAAAAAPk/gA6RzLPBpm4/s288/desktop_gnome.png]
 
