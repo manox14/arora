@@ -29,8 +29,7 @@ Once Inspector is enabled (in the tools menu) you can right click at any point t
 
 === Right to Left Support ===
 
-[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439838235934466 
-http://lh3.ggpht.com/icefox/SJnO0MXhPwI/AAAAAAAAAQU/Yf2VGY4TmZM/s288/reverse.png]
+[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439838235934466 http://lh3.ggpht.com/icefox/SJnO0MXhPwI/AAAAAAAAAQU/Yf2VGY4TmZM/s288/reverse.png]
 
 Another right-to-left screenshot also showing off Google docs
 
