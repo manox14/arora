@@ -10,6 +10,9 @@ Here are some screenshots of Arora in action and on different platforms.
 === KDE 3.x ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231439627693449682 http://lh6.ggpht.com/icefox/SJnOn8CR4dI/AAAAAAAAAPs/v4HS_cAyWiA/s288/desktop_kde.png]
 
+=== KDE 4.x ===
+[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231448768262933634 http://lh4.ggpht.com/icefox/SJnW7_T3jII/AAAAAAAAARU/Kf4fdDSQmJM/s288/desktop_kde4.png]
+
 === OS X ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231445866182309234 http://lh5.ggpht.com/icefox/SJnUTEN7dXI/AAAAAAAAAQ0/J7DU4q3kHWA/s288/desktop_osx.png]
 
