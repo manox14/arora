@@ -11,8 +11,8 @@ Arora is still in early development, which means that there are no compiled inst
 == Step 1: Make sure git is installed. ==
 To see if git is installed, open up a terminal window and type `git`. If it is not installed, the terminal will report back command not found. If it is installed, you'll receive the git help text. To install git: [http://code.google.com/p/msysgit/downloads/list Windows], [http://code.google.com/p/git-osx-installer/downloads/list?can=3 Mac], and for Linux, use your distro's package manager.
 
-== Step 2: Download and install Qt. ==
-If you already have qt 4.4 or greater installed, you can skip this step. To install qt 4.4, visit the [http://doc.trolltech.com/installation.html Official Install Instructions] and the [http://trolltech.com/downloads/opensource Download Page]. Be sure to add the correct PATH variable if required in the official install instructions. When you're done, skip the alternative method section, and move onto Step 3.
+== Step 2: Download and install Qt 4.4 or greater. ==
+If you already have *Qt 4.4* or greater installed, you can skip this step. To install qt 4.4, visit the [http://doc.trolltech.com/installation.html Official Install Instructions] and the [http://trolltech.com/downloads/opensource Download Page]. Be sure to add the correct PATH variable if required in the official install instructions. When you're done, skip the alternative method section, and move onto Step 3.
 
 === _Alternative Method_: Download and install qt-snapshot. ===
 Qt snapshot is the latest trolltech snapshot of the upcoming qt version. Choose this alternative method only if you are especially curious. Otherwise, follow the directions in the section above to get the release version. Issue these commands to get the latest qt snapshot:
