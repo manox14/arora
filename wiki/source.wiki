@@ -46,7 +46,7 @@ And the build Arora with it:
 {{{
 $ cd /path/to/arora/source
 $ export QT_WEBKIT=webkit_trunk
-$ export WEBKITBUILD=/path/to/webkit/WebKitBuild/Release
+$ export WEBKITDIR=$HOME/dev/webkit
 $ qmake
 $ make clean
 $ make
