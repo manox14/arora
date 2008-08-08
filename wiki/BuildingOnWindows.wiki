@@ -42,7 +42,7 @@ Download and compile Arora using [source this wiki's instructions] from the Visu
 ==Step 4: NSIS Installer==
 1. Download and install [http://nsis.sourceforge.net/Download NSIS].
 
-2. Download the [http://nsis.sourceforge.net/KillProc_plug-in KillProc plugin] and move the appropriate DLL into the NSIS plugins directory.
+2. Download the [http://nsis.sourceforge.net/KillProcDLL_plug-in KillProcDLL plugin] and move the appropriate DLL into the NSIS plugins directory.
 
 3. Edit the hard-coded directory paths in `arora_source_directory\windowsinstaller.nsi` to reflect the appropriate location of the libraries installed above. Also edit the location and file for the Visual C++ redistributable package to reflect the version of Visual C++ you used to compile.
 
