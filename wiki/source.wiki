@@ -52,4 +52,4 @@ $ make clean
 $ make
 }}}
 
-QtWebKit should pick up the plugins that are installed in your system.  It will look in the normal locations and if it works in firefox it should also work in arora.  If plugins don't work you can double check that arora is using webkit trunk run running ldd on arora to make sure it is using the correct webkit library.
+QtWebKit should pick up the plugins that are installed in your system.  It will look in the normal locations and if it works in firefox it should also work in arora.  If plugins don't work you can double check that arora is using webkit trunk run running ldd on arora to make sure it is using the correct webkit library.   More details about the exact directories can be found in WebCore/plugins/PluginDatabase.cpp or for a quick cheatsheet: http://pastebin.com/f47afa819
