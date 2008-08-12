@@ -39,6 +39,17 @@ $ cd WebKit
 $ ./WebKitTools/Scripts/build-webkit --qt --release
 }}}
 
+To specify the version of qmake to use (such as on Debian) append the following to the build-webkit script
+{{{
+--qmake=qmake-qt4
+}}}
+
+To compile in debug use
+{{{
+--debug
+}}}
+rather then --release
+
 !WebKit will be built in the subdirectory *!WebKitBuild/Release/*
 
 And the build Arora with it:
