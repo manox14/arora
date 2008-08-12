@@ -30,6 +30,16 @@ Type `nmake` instead of `make` if using Visual C++ to compile.
 
 To compile in debug simply remove the "CONFIG-=debug" from the qmake line.
 
+If you get a compile error that goes something like:
+{{{
+webview.cpp:(.text+0x300c): undefined reference to `QWebPage::createStandardContextMenu()'
+}}}
+
+Try cleaning up the old object files with the following command
+{{{
+make clean;qmake;
+}}}
+
 === Building with QtWebKit Trunk ===
 If you want to use Arora with QtWebKit trunk you need to get a copy WebKit trunk as well at Qt 4.4.  Setting the environment variables QT_WEBKIT and WEBKITDIR and rebuilding Arora will cause it to use QtWebKit trunk.  See the file 'src/webkittrunk.pri' in Arora's source for more details and customizations you might need to do to point it to the location of your QtWebKit checkout.
 
