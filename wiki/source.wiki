@@ -30,6 +30,8 @@ Type `nmake` instead of `make` if using Visual C++ to compile.
 
 To compile in debug simply remove the "CONFIG-=debug" from the qmake line.
 
+On OS X when using the binary Qt package use 'qmake -spec macx-g++' to generate the Makefile rather then the XCode project.
+
 If you get a compile error that goes something like:
 {{{
 webview.cpp:(.text+0x300c): undefined reference to `QWebPage::createStandardContextMenu()'
