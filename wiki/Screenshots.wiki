@@ -21,7 +21,7 @@ Using Qt Arora integrates very well with every platform.  From picking up your c
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231445866182309234 http://lh5.ggpht.com/icefox/SJnUTEN7dXI/AAAAAAAAAQ0/J7DU4q3kHWA/s288/desktop_osx.png]
 
 === Windows XP ===
-[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5235998024181917058 http://lh3.ggpht.com/icefox/SKoAdiQCpYI/AAAAAAAAAVY/-g7nxCs8-jc/s144/arora-xp-winstyle.png]
+[http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5235998024181917058 http://lh3.ggpht.com/icefox/SKoAdiQCpYI/AAAAAAAAAVY/-g7nxCs8-jc/s288/arora-xp-winstyle.png]
 
 === Windows Vista ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5233992417973657954 http://lh6.ggpht.com/icefox/SKLgX45oYWI/AAAAAAAAARk/zpBl9gNY7eM/s288/arora-vista.png]
