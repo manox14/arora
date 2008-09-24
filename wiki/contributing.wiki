@@ -19,6 +19,13 @@ On your local machine (if you haven't already) set your git user name and e-mail
   * It is encouraged to make autotests when possible.
   * Make a pull request http://github.com/guides/pull-requests to icefox
 
+  * It is good to symlink the project git hooks:
+{{{
+cd .git
+rm -rf hooks
+ln -s ../git_hooks hooks
+}}}
+
   * If you want an image to show up next to your commits on github you have to make an account on http://gravatar.com/
 
 After it is merged or to update to the latest arora
