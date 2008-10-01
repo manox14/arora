@@ -11,13 +11,11 @@ This is short term dumping ground for bugs, tasks, ideas, and suggestions, the T
   * error pages screw up history
  
 === Qt Issues ===
-  * http needs a cache
   * right click on the left side of the toolbar the menu should be empty, but it shows the menu for the first item
 
 === general ===
   * QMenu with no parent for OS X
   * view source in right click menu
-  * syntax highlight in source view, find in source view
   * Enable the page cache in QtWebKit (see QWebSettings for that), a simple calculation like having 10 tabs with forward and back should work fast you are at 20 pages.
   * Start browser.  It takes a while before loading is completed (before you see the 'stop' change into reload) and in that time the location bar is set to the current value several times. Which is damn annoying when I try to type a new location ;) I expect that whatever the state, if I start typing in the location bar, browser will not overwrite it again with a new value.
 
