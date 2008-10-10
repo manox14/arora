@@ -6,12 +6,12 @@ This page contains instructions that you could use to contribute to Arora by tra
 = Instructions =
 
   * Download the latest source code from git. See [source] for instructions on how to do that and set up a Qt development environment.
-  * Open the file src/src.pro. If your ISO language code (two letters) is not in the TRANSLATIONS section, add it to the list:
+  * Open the file src/src.pro. If your ISO language code (lang_COUNTRY) is not in the TRANSLATIONS section, add it to the list:
 
 {{{
 TRANSLATIONS += \
-  locale/xx.ts \     # line to add, replace xx with your language code
-  locale/de.ts \
+  locale/xx_XX.ts \     # line to add, replace xx with your language code
+  locale/ru_RU.ts \
   locale/en.ts \
 ...
 }}}
