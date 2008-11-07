@@ -1,5 +1,7 @@
 #summary Notes on making release so I don't forget anything
 
+ * Send an e-mail to arora-dev to get translations.
+
 = tag =
 
  * Update changelog
