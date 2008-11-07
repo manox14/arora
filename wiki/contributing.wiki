@@ -11,6 +11,14 @@ On your local machine (if you haven't already) set your git user name and e-mail
   * git config --global user.name "Foo Bar"
   * git config --global user.email "foo@example.com"
 
+== For just one or two patches ==
+
+ * Checkout the git repository
+ * Make a change and commit it
+ * Use git format-patch to make a patch with and make an issue with the patch attached.  When the patch is applied it goes into git just like any other commit and you get full credit.
+
+== For multiple patches ==
+
   * Make an account on https://github.com/
   * Goto http://github.com/arora/Arora/tree/master and click on the fork button
   * Clone your forked repository onto your local machine
