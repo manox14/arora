@@ -2,17 +2,17 @@
 
 = tag =
 
-* Update changelog
-* Regenerate AUTHORS
-* Make a git tag
-* bump version in debian-upstream/changelog.in and browserapplication.cpp
+ * Update changelog
+ * Regenerate AUTHORS
+ * Make a git tag
+ * bump version in debian-upstream/changelog.in and browserapplication.cpp
 
 = tarball =
 
-Make a tag like below and upload to arora-browser.org
-git archive --format=tar --prefix=arora-0.5/ 0.5 | gzip >arora-0.5.tar.gz
+ * Make a tag like below and upload to arora-browser.org
+ * git archive --format=tar --prefix=arora-0.5/ 0.5 | gzip >arora-0.5.tar.gz
 
 = binary packages == 
-see BuildingOnWindows
+ * see BuildingOnWindows
 
-Blog
+= Blog =
