@@ -57,7 +57,7 @@ $ cd WebKit
 $ ./WebKitTools/Scripts/build-webkit --qt --release
 }}}
 
-To specify the version of qmake to use (such as on Debian) append the following to the build-webkit script
+If qmake is not the qt4 binary (such as on debian where qmake points to the Qt3's qmake and qmake-qt4 points to the Qt4's qmake).  To specify the version of qmake to use (such as on Debian) append the following to the build-webkit script
 {{{
 --qmake=qmake-qt4
 }}}
