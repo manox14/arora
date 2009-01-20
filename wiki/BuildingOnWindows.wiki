@@ -52,5 +52,6 @@ Download and compile Arora using [source this wiki's instructions] from the Visu
 
 
 =Todo=
+  * Use UPX to shrink the binary http://upx.sourceforge.net/
   * Figure out a more elegant solution to include the Visual C++ Runtime without having to bundle the entire gigantic redistributable and run it silently from NSIS.
   * On Vista, have "Run Arora" box at end of the installer run it from the user's account, not the administrators account.
