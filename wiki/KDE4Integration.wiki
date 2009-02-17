@@ -22,6 +22,7 @@ In Oxygen
   * Oxygen needs to add support several new QTabBar style hints that  were added in 4.5 http://labs.trolltech.com/blogs/2008/07/02/some-qtabbar-qtabwidget-love/
   * Check to see if Oxygen has rendering issues in qtwebkit (line edits or buttons)?  It did in the past.
   * Does oxygen cause the KDE file dialog to be used?
+  * honor the QLineEdit background contents rect so in LocationBar::paintEvent where we paint the background yellow for https sites we're are not painting a larger area than oxygen does
 
 In Arora
   * Use the new proxy stuff in 4.5 which in theory will pickup KDE's  proxy setting in the future.
