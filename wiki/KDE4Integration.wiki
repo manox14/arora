@@ -7,11 +7,13 @@ As it is today Arora doesn't fit as well as it could into KDE4.  Below is a list
 == Details ==
 
 The following should already happen
-  * Use the Oxygen style
+  * Use the default KDE style (Oxygen)
   * Use KDE shortcuts
-  * Use KDE icons (given by the shortcut)
+  * Use KDE icons (given by the style)
   * Desktop file should appear in the KDE menu
-  * Import Konq's bookmarks (Both applications use XBel format)
+  * Import Konq's bookmarks (Both applications use XBel format, this could even be a shared file via a sym links)
+  * Use XDG for opening files/folders
+  * Use XDG for getting the location for the data, cache, and settings folder.
 
 == TODO ==
 
