@@ -27,3 +27,7 @@ In Oxygen
 In Arora
   * Use the new proxy stuff in 4.5 which in theory will pickup KDE's  proxy setting in the future.
   * Don't use activate in the bookmark manager/cookie manager (Need to  test in kde)
+
+Q ->K (We would get)
+  * Toolbar dots/handles, KDE apps have "Lock/Unlock Toolbars" option in context menu (to hide/show them), along with stuff like text position, orientation and icon size.
+  * KDE icons in menus
