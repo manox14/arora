@@ -4,7 +4,7 @@ Making Arora fit better in KDE4
 
 As it is today Arora doesn't fit as well as it could into KDE4.  Below is a list of ideas on ways to improve that
 
-== Details ==
+== Done ==
 
 The following should already happen
   * Use the default KDE style (Oxygen)
@@ -14,6 +14,7 @@ The following should already happen
   * Import Konq's bookmarks (Both applications use XBel format, this could even be a shared file via a sym links)
   * Use XDG for opening files/folders
   * Use XDG for getting the location for the data, cache, and settings folder.
+  * Use QButtonBox so button order in dialogs will be correct in KDE
 
 == TODO ==
 
