@@ -9,8 +9,12 @@
  * Run findstyleerrors.sh
  * Run lupdate arora.pro
  * Update changelog
- * Make a git tag
  * bump version in debian-upstream/changelog.in and src/browserapplication.cpp
+
+ * Make a git tag
+{{{
+ git tag -a 0.5 -m "Version 0.5"
+}}}
 
 = tarball =
 
