@@ -19,11 +19,13 @@
 
 = tarball =
 
- * Make a tag like below and upload to arora-browser.org
+ * Make a tarball
  * git archive --format=tar --prefix=arora-0.6/ 0.6 | gzip >arora-0.6.tar.gz
+ * upload to arora-browser.org
 
 = binary packages =
- * see BuildingOnWindows
+ * Build a windows package and upload, see BuildingOnWindows
+ * Build a OS X package and upload, see BuildingOnMacOS
 
 = Other =
  * update this wiki to use the next version :)
