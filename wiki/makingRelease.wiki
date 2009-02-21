@@ -14,17 +14,20 @@
 
  * Make a git tag
 {{{
- git tag -a 0.5 -m "Version 0.5"
+ git tag -a 0.6 -m "Version 0.6"
 }}}
 
 = tarball =
 
  * Make a tag like below and upload to arora-browser.org
- * git archive --format=tar --prefix=arora-0.5/ 0.5 | gzip >arora-0.5.tar.gz
+ * git archive --format=tar --prefix=arora-0.6/ 0.6 | gzip >arora-0.6.tar.gz
 
-= binary packages == 
+= binary packages =
  * see BuildingOnWindows
+
+= Other =
+ * update this wiki to use the next version :)
 
 = Blog =
 
-Changelog, screenshots, Authors
+ * Changelog, screenshots, Authors
