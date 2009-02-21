@@ -38,3 +38,6 @@ Q ->K (We would get)
   * Toolbar dots/handles, KDE apps have "Lock/Unlock Toolbars" option in context menu (to hide/show them), along with stuff like text position, orientation and icon size.
   * KDE icons in menus
   * Some more discussion on Q->K http://groups.google.com/group/arora-dev/browse_thread/thread/fdb8427d72a8739
+
+Screenshots
+  * http://imagebin.ca/view/4Z7EiR.html
