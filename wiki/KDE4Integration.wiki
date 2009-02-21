@@ -2,7 +2,9 @@ Making Arora fit better in KDE4
 
 = Introduction =
 
-As it is today Arora doesn't fit as well as it could into KDE4.  Below is a list of ideas on ways to improve that
+As it is today Arora doesn't fit as well as it could into KDE4.  Below is a list of ideas on ways to improve that.
+
+Feel free to add items not listed here as a comment.
 
 == Done ==
 
