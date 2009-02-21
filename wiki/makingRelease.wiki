@@ -5,6 +5,7 @@
 
 = tag =
 
+ * Check for any patches on github and the mailinglist
  * Regenerate AUTHORS, check for duplicates
  * Run findstyleerrors.sh
  * Run lupdate arora.pro
