@@ -1,5 +1,5 @@
+#summary How to build Arora on Windows and create a working installer.
 #labels Phase-Implementation
- #summary How to build Arora on Windows and create a working installer.
 
 =Introduction=
 
