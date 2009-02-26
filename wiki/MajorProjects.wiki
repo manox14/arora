@@ -16,6 +16,7 @@ Cookies
 KDE Integration
   * Make sure KDE users are happy with Arora, they are most likely initial set of users. 
   * Pretty much complete http://code.google.com/p/arora/wiki/KDE4Integration patching KDE style if need be.
+  * Owner: ?
 
 Plugins
   * Support plugins with QScript
