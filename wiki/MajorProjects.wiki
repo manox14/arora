@@ -47,3 +47,6 @@ Location Bar
 RSS
   * P1 Library: download / parse/ fetch  rss/atom with autotests (copy tests from other rss libraries) 
   * P2 UI: location bar widget, webpage, settings
+
+Spellcheck
+  * Add hunspell support to QtWebKit
