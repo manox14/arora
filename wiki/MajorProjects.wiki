@@ -47,6 +47,8 @@ Location Bar
 RSS
   * P1 Library: download / parse/ fetch  rss/atom with autotests (copy tests from other rss libraries) 
   * P2 UI: location bar widget, webpage, settings
+  http://sites.google.com/a/chromium.org/dev/user-experience/feed-subscriptions
+  http://www.rss4lib.com/2008/06/google_has_an_rss_embedding_to.html
 
 Spellcheck
   * Add hunspell support to QtWebKit
