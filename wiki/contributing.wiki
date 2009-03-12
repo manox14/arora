@@ -37,7 +37,7 @@ ln -s ../git_hooks hooks
   * If you want an image to show up next to your commits on github you have to make an account on http://gravatar.com/
 
 After it is merged or to update to the latest arora
-  * git pull git://github.com/Arora/arora.git master
+  * git pull --rebase git://github.com/Arora/arora.git master
 
 Some more info on git
   * http://trac.webkit.org/wiki/QtWebKitGitInstructions
