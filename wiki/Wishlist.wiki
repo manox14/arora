@@ -1,7 +1,6 @@
 #labels Phase-Design
 URL bar:
 
-  * Clicking an entry in the URL bar autocomplete list should open that page instead of just putting the address in the bar and requiring to press Enter.
   * Search by any part of the URL. For example, if I had previously visited http://www.linux.org.ru/view-all.jsp, I expect it to come up when searching for “lin” or “view”.
   * Better cooperation with faulty themes. The bar shouldn’t go all black just because the QtCurve and GTK themes draw gradients incorrectly.
 
