@@ -56,3 +56,13 @@ RSS
 
 Spellcheck
   * Add hunspell support to QtWebKit
+
+Open Search
+  Owner: Christian Franke, Jakub Wieczorek
+  * Add open search support to the toolbar search.
+  * Ship it with a bunch of search engines by default.
+  * Add simple management interface.
+  * Allow to add new engines from file or website when they are linked to the document.
+  * Support contextual suggestions.
+  * Allow to create new open search descriptions from scratch with some nice GUI.
+  Current Status: work in progress, most of the things mentioned above are already implemented.
