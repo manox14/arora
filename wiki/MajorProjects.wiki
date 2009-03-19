@@ -13,6 +13,9 @@ Cookies
   * Owner: Benjamin Meyer
   * Current Status: Arora has a new cookie jar, there are patches going into Qt and QtWebKit and any reported cookie issues are being investigated.
 
+AdBlock
+  * Clone Firefox adblock any way possible.
+
 KDE Integration
   * Make sure KDE users are happy with Arora, they are most likely initial set of users. 
   * Pretty much complete http://code.google.com/p/arora/wiki/KDE4Integration patching KDE style if need be.
