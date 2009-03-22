@@ -6,7 +6,7 @@ This page contains instructions that you could use to contribute to Arora by tra
 = Instructions =
 
   * Download the latest source code from git. See [source] for instructions on how to do that and set up a Qt development environment.
-  * Open the file src/src.pro. If your ISO language code (lang_COUNTRY) is not in the TRANSLATIONS section, add it to the list:
+  * Open the file src/locale/locale.pri. If your ISO language code (lang_COUNTRY) is not in the TRANSLATIONS section, add it to the list:
 
 {{{
 TRANSLATIONS += \
@@ -20,13 +20,13 @@ TRANSLATIONS += \
   * Run this command:
 
 {{{
-lupdate src/src.pro
+lupdate ../src/src.pro
 }}}
 
   or under Windows:
 
 {{{
-(path to Qt bin directory)\lupdate.exe src\src.pro
+(path to Qt bin directory)\lupdate.exe ..\src\src.pro
 }}}
 
   * Open the src/locale directory inside the source. It should now contain the .ts file for your language.
@@ -38,5 +38,6 @@ The new translation will now be integrated into both Unix installations (`make i
 To test the language under Linux you can set the LANG environment variable.  You can run 'LANG=foo ./arora' where foo is the translation you are working on.
 
 To ask the developers to add the translation to the main source tree, you can:
-  * Create an issue in the Google Code issue tracker, with a summary like "Add translation into the X language" (or "Update X translation" if one already exists), and attach the .ts file.
-  * Alternatively, create a github.com branch with your translation, as outlined in [contributing].
+  * If you modified an existing file check the locale/maintainers file to see if you should email the change to the maintainer of that locale.
+  * Create a github.com branch with your translation, as outlined in [contributing].
+  * Alternatively, create an issue in the Google Code issue tracker, with a summary like "Add translation into the X language" (or "Update X translation" if one already exists), and attach the .ts file.
