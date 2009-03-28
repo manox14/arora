@@ -5,7 +5,6 @@ URL bar:
   * Better cooperation with faulty themes. The bar shouldn’t go all black just because the QtCurve and GTK themes draw gradients incorrectly.
 
 Search box:
-  * Google Suggest dropdown list
   * Support for local search engines via OpenSearch (implemented in midori, which uses webkit-gtk)
 
 Bookmarks:
