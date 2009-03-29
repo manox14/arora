@@ -1,14 +1,13 @@
 #summary Notes on making release so I don't forget anything
 
- * Send an e-mail to arora-dev to get translations a week before release.
  * Run lupdate arora.pro
+ * Send an e-mail to arora-dev to get translations a week before release.
 
 = tag =
 
  * Check for any patches on github and the mailinglist
  * Regenerate AUTHORS, check for duplicates
  * Run findstyleerrors.sh
- * Run lupdate arora.pro
  * Update changelog
  * bump version in debian-upstream/changelog.in and src/browserapplication.cpp
 
