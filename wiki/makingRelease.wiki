@@ -9,7 +9,10 @@
  * Regenerate AUTHORS, check for duplicates
  * Run findstyleerrors.sh
  * Update changelog
- * bump version in debian-upstream/changelog.in and src/browserapplication.cpp
+ * bump version in
+  * debian-upstream/changelog.in
+  * src/browserapplication.cpp
+  * buildosx.sh
 
  * Make a git tag
 {{{
