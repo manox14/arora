@@ -62,7 +62,8 @@ Open Search
   * Add open search support to the toolbar search.
   * Ship it with a bunch of search engines by default.
   * Add simple management interface.
-  * Allow to add new engines from file or website when they are linked to the document.
+  * Allow to add new engines from file or website when they are linked in HTML tree.
   * Support contextual suggestions.
   * Allow to create new open search descriptions from scratch with some nice GUI.
+  * Location bar shortcuts ("wp:foo" searching for foo on the wikipedia)
   Current Status: work in progress, most of the things mentioned above are already implemented.
