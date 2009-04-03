@@ -37,7 +37,7 @@ Top Sites start page
 Click to Play for flash
   * Flash is unstable and its memory leaks and crashes makes Arora look bad.  Arora should have click to play with a whitelist by default.
   * Webkit plugin?  Determine how this is implemented on other browsers and the best way to do this for Arora 
-  http://github.com/rentzsch/clicktoflash/tree/a4388f32d13f00263d11d9d06f21778bea5724dc/Plugin
+  Current Status: Completed
 
 Url Icons
   * Currently url icons with QtWebKit are broke,
