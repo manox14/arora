@@ -8,7 +8,6 @@ This is short term dumping ground for bugs, tasks, ideas, and suggestions, the T
   * Find, hit enter, link isn't followed
   * In statusbar: "Loading "url", completed 66 of 74 items"
   * [205030] http://en.wikipedia.org/wiki/Austrian_economics assert on OS X
-  * error pages screw up history
  
 === Qt Issues ===
   * right click on the left side of the toolbar the menu should be empty, but it shows the menu for the first item
