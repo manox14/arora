@@ -18,6 +18,8 @@ The following should already happen
   * Use XDG for getting the location for the data, cache, and settings folder.
   * Use QButtonBox so button order in dialogs will be correct in KDE
   * Meta keys
+  * QDir::tempDir();
+  * QSettings
 
 == TODO ==
 
