@@ -17,6 +17,7 @@ The following should already happen
   * Use XDG for opening files/folders
   * Use XDG for getting the location for the data, cache, and settings folder.
   * Use QButtonBox so button order in dialogs will be correct in KDE
+  * Meta keys
 
 == TODO ==
 
