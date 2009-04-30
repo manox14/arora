@@ -60,7 +60,7 @@ Arora uses the same coding style as Qt.  If you use the git_hooks there is a pre
 }}}
 
   * For pointers or references, always use a single space before `*` or &, but never after.
-    Exception: template parameters - use no space before and no space after * or &.
+    Exception: template parameters - use no space before and no space after `*` or &.
   * No space after a cast.
   * Avoid C-style casts when possible.
 
