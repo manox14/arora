@@ -16,7 +16,7 @@
 
  * Make a git tag
 {{{
- git tag -a 0.7 -m "Version 0.7"
+ git tag -a 0.7.0 -m "Version 0.7.0"
 }}}
 
 = tarball =
