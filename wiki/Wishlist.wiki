@@ -4,9 +4,6 @@ URL bar:
   * Search by any part of the URL. For example, if I had previously visited http://www.linux.org.ru/view-all.jsp, I expect it to come up when searching for “lin” or “view”.
   * Better cooperation with faulty themes. The bar shouldn’t go all black just because the QtCurve and GTK themes draw gradients incorrectly.
 
-Search box:
-  * Support for local search engines via OpenSearch (implemented in midori, which uses webkit-gtk)
-
 Bookmarks:
   * One-click bookmarking ("star") - just add it directly to the menu, or to a subfolder, not to “Uncategorized” like in Firefox 3
 
