@@ -58,12 +58,12 @@ Spellcheck
   * Add hunspell support to QtWebKit
 
 Open Search
-  Owner: Christian Franke, Jakub Wieczorek
+  Owner: Jakub Wieczorek, Benjamin Meyer, Christian Franke
   * Add open search support to the toolbar search.
   * Ship it with a bunch of search engines by default.
   * Add simple management interface.
   * Allow to add new engines from file or website when they are linked in HTML tree.
   * Support contextual suggestions.
-  * Allow to create new open search descriptions from scratch with some nice GUI.
-  * Location bar shortcuts ("wp:foo" searching for foo on the wikipedia)
-  Current Status: work in progress, most of the things mentioned above are already implemented.
+  * TODO: Allow to create new open search descriptions from scratch with some nice GUI.
+  * TODO: Location bar shortcuts ("wp:foo" searching for foo on the wikipedia)
+  Current Status: Completed
