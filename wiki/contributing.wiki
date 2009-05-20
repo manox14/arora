@@ -25,7 +25,7 @@ On your local machine (if you haven't already) set your git user name and e-mail
   * It is often convenient to make a branch for individual features or fixes 'git checkout -b branchname master'
   * Make any changes and then do a 'git push origin' to have it uploaded to github
   * It is encouraged to make autotests when possible.
-  * Make a pull request http://github.com/guides/pull-requests to icefox
+  * Make a pull request http://github.com/guides/pull-requests to icefox or faw
 
   * It is good to symlink the project git hooks:
 {{{
