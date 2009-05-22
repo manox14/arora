@@ -7,7 +7,7 @@ First off, thanks for helping out.
 After you get push access to the Arora repository when you go to http://github.com/Arora/arora/tree/master
 you will now see a clone url for you to use (not the public read only one).
 
-This url needs to be added as a remote.  "git remote add -f upstream url"  You will not have an upstream branches and tags such as upstream/master.
+This url needs to be added as a remote.  "git remote add -f upstream url"  You will now have an upstream branches and tags such as upstream/master.
 
 Everyone forks off upstream so they get every branch/tag that exists in the main repo.  Don't push up experimental branches or tags, keep your own work and branches in your own repository until it is ready to go into the main branch after it is reviewed. For example all of Ben's experimental branches can be found in his icefox account on github.
 
