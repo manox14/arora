@@ -13,6 +13,7 @@
   * debian-upstream/changelog.in
   * src/browserapplication.cpp
   * buildosx.sh
+  * generateReleaseContributors
 
  * Make a git tag
 {{{
