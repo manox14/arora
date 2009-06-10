@@ -50,7 +50,7 @@ If there is already a maintainer assigned to the language you would like to cont
 If you have translated Arora to a new language and would like to become a maintainer of that translation, you become at once.
 If you've been contributing to a language that had been already present in the tree, you can become a maintainer having provided the first patch.
 
-Two ways to become a maintainer:
+Three ways to become a maintainer:
   * Send an e-mail to arora-dev.
   * Pop in the irc channel and ask.
   * Ask when requesting pulling your first translation patch.
