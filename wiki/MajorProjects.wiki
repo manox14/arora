@@ -66,5 +66,5 @@ Open Search
   * Support contextual suggestions.
   * TODO: Allow to create new open search descriptions from scratch with some nice GUI.
   * TODO: Location bar shortcuts ("wp:foo" searching for foo on the wikipedia)
-  * TODO: Allow to create new engines from any input field existing on a site.
+  * Allow to create new engines from any input field existing on a site.
   Current Status: Completed
