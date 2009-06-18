@@ -35,7 +35,6 @@ Misc (maybe or nice to have or investigate later)
   * Select multiple, right click and delete
 
 === Bookmark Bar ===
-  * drop url on tab bar ether opening a new url or when on a tab in that tab
   * Should be able to show icons
 
 === History/Bookmarks ===
