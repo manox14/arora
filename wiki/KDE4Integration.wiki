@@ -20,10 +20,6 @@ The following should already happen
   * Meta keys
   * QDir::tempDir();
   * QSettings
-
-== TODO ==
-
-In Arora; fixed
   * honor the QLineEdit background contents rect so in LocationBar::paintEvent where we paint the background yellow for https sites we're are not painting a larger area than oxygen does
 
 In KDE; fixed for KDE 4.3
@@ -32,6 +28,8 @@ In KDE; fixed for KDE 4.3
 
 In Oxygen; fixed for KDE 4.3
   * Oxygen does not cause the KDE file dialog because it does not link to kio
+
+== TODO ==
 
 In Oxygen
   * Oxygen has rendering issues in qtwebkit with buttons.
