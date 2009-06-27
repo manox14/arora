@@ -64,7 +64,6 @@ Open Search
   * Add simple management interface.
   * Allow to add new engines from file or website when they are linked in HTML tree.
   * Support contextual suggestions.
-  * TODO: Allow to create new open search descriptions from scratch with some nice GUI.
   * TODO: Location bar shortcuts ("wp:foo" searching for foo on the wikipedia)
   * Allow to create new engines from any input field existing on a site.
   Current Status: Completed
