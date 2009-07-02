@@ -8,6 +8,10 @@ I (Ben) have started on each one of these, but of course time is limited so I am
 
 = Details =
 
+Kubuntu Karmic 9.10 Inclusion
+ * http://wiki.kubuntu.org/KubuntuKarmicWebbrowser
+ * http://wiki.kubuntu.org/seele/KarmicTODO/Arora
+
 Cookies
   * Cookies need to just work for users.
   * Owner: Benjamin Meyer
