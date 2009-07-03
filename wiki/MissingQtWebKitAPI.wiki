@@ -2,7 +2,7 @@
 
   * Reload without cache
   * Get the QWebPage/View that an inspector is in
-  * Get the version of WebKit
+  * Get the WebKit version
   * Emit signals each time when a network request is created (including subresources like images)
   * Get the original request from QWebFrame/QWebPage
   * Get a list of installed plugins
