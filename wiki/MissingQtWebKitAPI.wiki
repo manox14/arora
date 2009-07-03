@@ -2,3 +2,10 @@
 
   * Reload without cache
   * Get the QWebPage/View that an inspector is in
+  * Get the version of WebKit
+  * Emit signals each time when a network request is created (including subresources like images)
+  * Get the original request from QWebFrame/QWebPage
+  * Get a list of installed plugins
+  * Allow to disable particular plugins
+  * When there are two plugins that support the same MIME type, allow to specify which should be used.
+  * Better icon database
