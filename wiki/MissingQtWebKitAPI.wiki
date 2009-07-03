@@ -1,0 +1,4 @@
+#summary List of api that QtWebKit is currently missing
+
+  * Reload without cache
+  * Get the QWebPage/View that an inspector is in
