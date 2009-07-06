@@ -18,6 +18,7 @@ Cookies
   * Current Status: Arora has a new cookie jar, there are patches going into Qt and QtWebKit and any reported cookie issues are being investigated.
 
 AdBlock
+  Owner: Zsombor Gegesy
   * Clone Firefox adblock any way possible.
 
 KDE Integration
@@ -27,7 +28,6 @@ KDE Integration
 
 Plugins
   * Support plugins with QScript
-  * Owner: Benjamin Meyer
   * P1 Arora needs an action manager.
   * P2 QScript plugin infrastructure.
   * Current Status: Starting to work on this again :)
@@ -39,9 +39,10 @@ Top Sites start page
   * A rich widget that show images of the top sites.  Safari4 really nails this feature.  Maybe make something in html, graphicsview or the new qt-kinetics?  This will become the face of Arora.
 
 Click to Play for flash
+  Owner: Benjamin Meyer
   * Flash is unstable and its memory leaks and crashes makes Arora look bad.  Arora should have click to play with a whitelist by default.
   * Webkit plugin?  Determine how this is implemented on other browsers and the best way to do this for Arora 
-  Current Status: Completed
+  Current Status: *Completed*
 
 Url Icons
   * Currently url icons with QtWebKit are broke,
@@ -50,9 +51,14 @@ Url Icons
   * manyoso has started patches for qtwebkit and arora
 
 Location Bar
-  * Currently a simple crude text search on the url from the start of the url.  Modern browsers support much more
+  Owner: Benjamin K. Stuhl
+  * Location bar completion: full text search
+  * Prioritise history entries by frecency (frequency + recency)
+  * TODO: track how URLs get loaded and take it into account
+  Current Status: *Completed*
 
 RSS
+  Owner: Benjamin Meyer
   * P1 Library: download / parse/ fetch  rss/atom with autotests (copy tests from other rss libraries) 
   * P2 UI: location bar widget, webpage, settings
   http://sites.google.com/a/chromium.org/dev/user-experience/feed-subscriptions
@@ -71,4 +77,4 @@ Open Search
   * Allow to create new engines from any input field existing on a site.
   * TODO: Location bar shortcuts ("wp:foo" searching for foo on the wikipedia)
   * TODO: POST support
-  Current Status: Completed
+  Current Status: *Completed*
