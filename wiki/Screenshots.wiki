@@ -64,3 +64,19 @@ Bookmarks are stored in the standardized XBel format.
 
 === Download Manager ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5231447871415160402 http://lh5.ggpht.com/icefox/SJnWHySsjlI/AAAAAAAAARM/ifVxqlGpMNU/s288/downloads.png]
+
+=== Start Page ===
+[http://4.bp.blogspot.com/_g_3jioX2SA4/SlEB-AWUNPI/AAAAAAAAA1k/cZIMA8jIsMU/s1600-h/startpage.png http://4.bp.blogspot.com/_g_3jioX2SA4/SlEB-AWUNPI/AAAAAAAAA1k/cZIMA8jIsMU/s400/startpage.png]
+
+=== Access Keys ===
+[http://3.bp.blogspot.com/_g_3jioX2SA4/Sk2h31wsnQI/AAAAAAAAA1U/NixFyCJi0cA/s1600-h/accesskeys.png http://3.bp.blogspot.com/_g_3jioX2SA4/Sk2h31wsnQI/AAAAAAAAA1U/NixFyCJi0cA/s400/accesskeys.png]
+
+=== ClickToFlash ===
+[http://1.bp.blogspot.com/_g_3jioX2SA4/ShnG1I8dISI/AAAAAAAAArs/PWBaEl3Vgzk/s1600-h/click2flash.png http://1.bp.blogspot.com/_g_3jioX2SA4/ShnG1I8dISI/AAAAAAAAArs/PWBaEl3Vgzk/s400/click2flash.png]
+
+=== OpenSearch support ===
+[http://3.bp.blogspot.com/_Si-KFczpAmo/Sg9dnB0pk8I/AAAAAAAAAAk/4IUxAlG8D2k/s1600-h/01.png http://3.bp.blogspot.com/_Si-KFczpAmo/Sg9dnB0pk8I/AAAAAAAAAAk/4IUxAlG8D2k/s320/01.png]
+
+[http://1.bp.blogspot.com/_Si-KFczpAmo/Sg9eH9LMjxI/AAAAAAAAABM/rfLG8A9H-Jg/s1600-h/06.png http://1.bp.blogspot.com/_Si-KFczpAmo/Sg9eH9LMjxI/AAAAAAAAABM/rfLG8A9H-Jg/s320/06.png]
+
+[http://1.bp.blogspot.com/_Si-KFczpAmo/SlHS93dW0dI/AAAAAAAAAB0/aCqtpXgMexw/s1600-h/addtothetoolbarsearch.png http://1.bp.blogspot.com/_Si-KFczpAmo/SlHS93dW0dI/AAAAAAAAAB0/aCqtpXgMexw/s320/addtothetoolbarsearch.png]
