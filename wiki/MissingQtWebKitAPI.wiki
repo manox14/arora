@@ -1,7 +1,7 @@
 #summary List of api that QtWebKit is currently missing
 
   * Reload without cache
-  * Get the QWebPage/View that an inspector is in or have an api like QWebPage *QWebPage::inspect(QPoint &point);
+  * Get the QWebPage/View that an inspector is in or have an api like QWebPage `*`QWebPage::inspect(QPoint &point);
   * Get the WebKit version
   * Emit signals:
     # when a network request is created
