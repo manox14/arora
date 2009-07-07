@@ -8,7 +8,7 @@
     # when a network request fails
     # when a network request is finished
     (including subresources like images)
-  * Get the original request from QWebFrame/QWebPage
+  * Get the original request from QWebFrame/QWebPage {https://bugs.webkit.org/show_bug.cgi?id=25867}
   * Get a list of installed plugins
   * Allow to disable particular plugins
   * When there are two plugins that support the same MIME type, allow to specify which should be used.
