@@ -13,3 +13,4 @@
   * Allow to disable particular plugins
   * When there are two plugins that support the same MIME type, allow to specify which should be used.
   * Better icon database
+  * A working offline storage database api
