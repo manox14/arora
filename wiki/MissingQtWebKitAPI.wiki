@@ -9,7 +9,7 @@
     # when a network request fails
     # when a network request is finished
     (including subresources like images)
-  * Get a list of installed plugins
+  * Get a list of installed plugins {faw}
   * Allow to disable particular plugins
   * When there are two plugins that support the same MIME type, allow to specify which should be used.
   * Better icon database
