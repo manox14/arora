@@ -1,9 +1,19 @@
 #labels Phase-Design
 Bookmarks:
   * One-click bookmarking ("star") - just add it directly to the menu, or to a subfolder, not to “Uncategorized” like in Firefox 3
+  * Beeing able to add a bookmark directly on clicking in the targeted bookmark folder, like the "bookmark here" extension for firefox
+
+UI:
+  * Please add a directory selection option everywhere a directory has to be entered. Like, in the configuration dialog, you can set where downloads should be stored. Why do I have to type the path for that? Just add a browse button for that please.
+  * Please add "open with..." for links. This is the last thing really missing for me, everything else is here.
+  * put tabs at the top of the window (like chrome or safari)
+  * more simplified interface... like chrome; I hate menu bar and unneeded status bar and other things which takes my precious screen real estate :)
+  * I think that a "home" button could be interesting
 
 General:
   * Improved scrolling and textarea typing performance - probably a problem with webkit in general, since the GTK version suffers from this as well
   * Ad blocker
   * Per-site configuration for enabling JavaScript, plugins and images
   * Autocomplete
+  * useragent switcher (unfortunately many sites still need to use it)
+  * add ".com" at the end of the line of the navigation bar when pressing ctrl+enter and ".org" when pressing ctrl+shift+enter. automatically use a search engine in navigation bar when a site couldn't be found
