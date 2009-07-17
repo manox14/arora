@@ -1,6 +1,6 @@
 #summary List of api that QtWebKit is currently missing
 
-  * Reload without cache => https://bugs.webkit.org/show_bug.cgi?id=26968; http://trac.webkit.org/changeset/45992
+  * Reload without cache => https://bugs.webkit.org/show_bug.cgi?id=26968 http://trac.webkit.org/changeset/45992
   * Get the original request from QWebFrame/QWebPage => https://bugs.webkit.org/show_bug.cgi?id=25867
   * Get the WebKit version => https://bugs.webkit.org/show_bug.cgi?id=27158
   * Get the QWebPage/View that an inspector is in or have an api like QWebPage `*`QWebPage::inspect(QPoint &point);
