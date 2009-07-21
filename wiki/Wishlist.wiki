@@ -5,7 +5,7 @@ Bookmarks:
 
 UI:
   * Please add a directory selection option everywhere a directory has to be entered. Like, in the configuration dialog, you can set where downloads should be stored. Why do I have to type the path for that? Just add a browse button for that please.
-  * Please add "open with..." for links. This is the last thing really missing for me, everything else is here.
+  * Please add "open with..." for links.
   * put tabs at the top of the window (like chrome or safari)
   * more simplified interface... like chrome; I hate menu bar and unneeded status bar and other things which takes my precious screen real estate :)
   * I think that a "home" button could be interesting
