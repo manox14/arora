@@ -14,6 +14,7 @@
   * src/browserapplication.cpp
   * buildosx.sh
   * generateReleaseContributors
+  * windowsinstaller.nsi
 
  * Make a git tag
 {{{
