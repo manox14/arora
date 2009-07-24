@@ -4,8 +4,6 @@
 
 This is a list of major projects that need to be done for Arora.  Rather then being a simple patch or two each of these are larger project that need to be developed in a branch with possible patches going into other projects such as Qt, QtWebKit, KDE, or Kubuntu.  New UI elements should have Autotests and Manualtests.  All of these projects will require an amount of research to determine what features are needed and will often contain many sub tasks.
 
-I (Ben) have started on each one of these, but of course time is limited so I am going through them one by one.  If someone is looking a more interesting project to tackle here is a list.
-
 = Details =
 
 Kubuntu Karmic 9.10 Inclusion
@@ -26,11 +24,10 @@ KDE Integration
   * Pretty much complete http://code.google.com/p/arora/wiki/KDE4Integration patching KDE style if need be.
   * Owner: ?
 
-Plugins
-  * Support plugins with QScript
+Extensions
+  * Support extensions with QScript
   * P1 Arora needs an action manager.
   * P2 QScript plugin infrastructure.
-  * Current Status: Starting to work on this again :)
 
 Autofill forms
   * A standard browser feature and one of the highest wanted features.  This includes configuration dialogs.
