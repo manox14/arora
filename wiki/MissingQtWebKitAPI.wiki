@@ -9,8 +9,8 @@
     # when a network request fails
     # when a network request is finished
     (including subresources like images)
-  * Get a list of installed plugins => https://bugs.webkit.org/show_bug.cgi?id=27210
-  * Allow to disable particular plugins
-  * When there are two plugins that support the same MIME type, allow to specify which should be used.
+  * Get a list of installed plugins => https://bugs.webkit.org/show_bug.cgi?id=27651
+  * Allow to disable particular plugins => https://bugs.webkit.org/show_bug.cgi?id=27651
+  * When there are two plugins that support the same MIME type, allow to specify which should be used. => https://bugs.webkit.org/show_bug.cgi?id=27651
   * Better icon database
   * A working offline storage database api
