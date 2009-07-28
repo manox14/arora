@@ -73,5 +73,5 @@ Open Search
   * Support contextual suggestions.
   * Allow to create new engines from any input field existing on a site.
   * Location bar shortcuts ("wp:foo" searching for foo on the wikipedia)
-  * TODO: POST support
+  * POST support
   Current Status: *Completed*
