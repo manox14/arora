@@ -1,0 +1,9 @@
+#summary My flash is broke help
+
+= Introduction =
+
+Some information about flash and Arora:
+
+  * The location where Arora looks for flash is here: http://pastebin.com/f47afa819
+  * Do you get any flash errors on the console? (Arora should never spit anything to the console, but flash does)
+  * Did you compile Qt with glib support?
