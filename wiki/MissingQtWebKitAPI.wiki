@@ -1,17 +1,17 @@
 #summary List of api that QtWebKit is currently missing
 
-  * Reload without cache => https://bugs.webkit.org/show_bug.cgi?id=26968 http://trac.webkit.org/changeset/45992
-  * Get the original request from QWebFrame/QWebPage => https://bugs.webkit.org/show_bug.cgi?id=25867 http://trac.webkit.org/changeset/46364
-  * Get the WebKit version => https://bugs.webkit.org/show_bug.cgi?id=27158
+  * ~~Reload without cache~~ => https://bugs.webkit.org/show_bug.cgi?id=26968 http://trac.webkit.org/changeset/45992
+  * ~~Get the original request from QWebFrame/QWebPage~~ => https://bugs.webkit.org/show_bug.cgi?id=25867 http://trac.webkit.org/changeset/46364
+  * ~~Get the WebKit version~~ => https://bugs.webkit.org/show_bug.cgi?id=27158
   * Get the QWebPage/View that an inspector is in or have an api like QWebPage `*`QWebPage::inspect(QPoint &point);
   * Emit signals:
     # when a network request is created
     # when a network request fails
     # when a network request is finished
     (including subresources like images)
-  * Get a list of installed plugins => https://bugs.webkit.org/show_bug.cgi?id=27651
-  * Allow to disable particular plugins => https://bugs.webkit.org/show_bug.cgi?id=27651
-  * When there are two plugins that support the same MIME type, allow to specify which should be used. => https://bugs.webkit.org/show_bug.cgi?id=27651
+  * ~~Get a list of installed plugins~~ => https://bugs.webkit.org/show_bug.cgi?id=27651
+  * ~~Allow to disable particular plugins~~ => https://bugs.webkit.org/show_bug.cgi?id=27651
+  * ~~When there are two plugins that support the same MIME type, allow to specify which should be used.~~ => https://bugs.webkit.org/show_bug.cgi?id=27651
   * Better icon database
   * A working offline storage database api 
   * event listener on QWebElement
