@@ -9,13 +9,13 @@
   # ~~Get the WebKit version~~
     * https://bugs.webkit.org/show_bug.cgi?id=27158
     * http://trac.webkit.org/changeset/46485
-  # QWebPage `*`QWebPage::inspect(QPoint &point);
   # ~~Plugin database API~~
     * Get a list of installed plugins
     * Allow to disable particular plugins    
     * When there are two plugins that support the same MIME type, allow to specify which should be used
     * https://bugs.webkit.org/show_bug.cgi?id=27651
     * http://trac.webkit.org/changeset/46762
+  # QWebPage `*`QWebPage::inspect(QPoint &point); (i.e. get a pointer to the QWebView containing the inspector to do what safari does and embed the inspector inside the browser) 
   # Better icon database
   # A working offline storage database api 
   # Event listener on QWebElement
