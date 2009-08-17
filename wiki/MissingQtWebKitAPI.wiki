@@ -19,3 +19,4 @@
   # Better icon database
   # A working offline storage database api 
   # Event listener on QWebElement
+  # A way to modify the QNetworkRequest before it is sent to QNetworkAccessManager (Maybe via QWebPage extensions?).  Today you can do it via a QNetworkAccessManagerProxy, but that is very much a hack.
