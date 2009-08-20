@@ -3,7 +3,9 @@
 = Goals =
 
 === Web Browser ===
-The project's primary focus is to create an open source browser built on QtWebKit that is capable of being used as a primary day to day web browser.  Supporting all of the regular features that users expect a browser to have including:
+The project's primary focus is to create an open source browser built on QtWebKit that is capable of being used as a primary day to day web browser.  Supporting all of the regular features that users expect a browser to have.
+
+This includes
    * History
    * Bookmarks
    * Tabs
