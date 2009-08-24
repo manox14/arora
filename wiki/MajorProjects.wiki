@@ -72,6 +72,6 @@ Open Search
   * Allow to add new engines from file or website when they are linked in HTML tree.
   * Support contextual suggestions.
   * Allow to create new engines from any input field existing on a site.
-  * Location bar shortcuts ("wp:foo" searching for foo on the wikipedia)
-  * POST support
+  * Location bar shortcuts ("wp:foo" searching for foo on the wikipedia).
+  * POST support.
   Current Status: *Completed*
