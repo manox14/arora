@@ -21,6 +21,7 @@ The following should already happen
   * QDir::tempDir();
   * QSettings
   * honor the QLineEdit background contents rect so in LocationBar::paintEvent where we paint the background yellow for https sites we're are not painting a larger area than oxygen does
+  * KDE icons in menus
 
 In KDE; fixed for KDE 4.3
   * KStyle needs to add support several new QTabBar style hints that  were added in 4.5 http://labs.trolltech.com/blogs/2008/07/02/some-qtabbar-qtabwidget-love/ http://bugs.kde.org/show_bug.cgi?id=184782
@@ -43,7 +44,6 @@ Other
 
 Q -> K (We would get)
   * Toolbar dots/handles, KDE apps have "Lock/Unlock Toolbars" option in context menu (to hide/show them), along with stuff like text position, orientation and icon size.
-  * KDE icons in menus
   * Some more discussion on Q -> K http://groups.google.com/group/arora-dev/browse_thread/thread/fdb8427d72a8739
 
 Screenshots
