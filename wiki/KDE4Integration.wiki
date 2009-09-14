@@ -32,6 +32,8 @@ In Oxygen; fixed for KDE 4.3
 
 == TODO ==
 
+From the Kubuntu guys: https://wiki.kubuntu.org/KubuntuKarmicWebbrowser
+
 In Oxygen
   * Oxygen has rendering issues in qtwebkit with buttons.
 
