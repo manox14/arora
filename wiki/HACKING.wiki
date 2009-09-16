@@ -1,6 +1,4 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
+#summary Quick overview of the source layout
 
 =/src/=
 
