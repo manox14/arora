@@ -1,5 +1,7 @@
 #summary Quick overview of the source layout
 
+If you run 'make dox' it will build a doc/ directory using Doxygen which you can use to browse and explore the code.
+
 =/src/=
 
   * BrowserApplication - Various functions and owner of main objects like the BrowserManager, has a list of BrowserMainWindow's.
