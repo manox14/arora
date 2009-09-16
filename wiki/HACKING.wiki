@@ -10,7 +10,7 @@ If you run 'make dox' it will build a doc/ directory using Doxygen which you can
   * WebView - Subclass of QWebView, has a WebPage.  Right click menu and actions are here.
   * WebPage - Subclass of QWebPage.
 
-Various other classes such the view source classes, the drop down search widget, and the download window class, and settings.
+Various other classes such the view source classes, the drop down search widget, and the download window class, and settings dialog.
 
 =/src/locationbar/=
 
@@ -51,7 +51,7 @@ QtWebKit's "plugin" system (like netscape plugins, but for Qt), currently only c
 
 This is a collection of very useful classes (i.e. stuff that could/should be in Qt) that are not specific to Arora and other applications can/do copy the code.  See the README file for details.
 
-=/autotests
+=/autotests/=
 
 Many of the classes in Arora have matching autotests that can be found here.  They use the Qt test system.
 
