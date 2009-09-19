@@ -16,8 +16,9 @@ Cookies
   * Current Status: Arora has a new cookie jar, there are patches going into Qt and QtWebKit and any reported cookie issues are being investigated.
 
 AdBlock
-  Owner: Zsombor Gegesy
+  Owner: Benjamin Meyer, Zsombor Gegesy
   * Clone Firefox adblock any way possible.
+  Current Status: *Completed*
 
 KDE Integration
   * Make sure KDE users are happy with Arora, they are most likely initial set of users. 
