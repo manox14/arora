@@ -11,7 +11,8 @@ Feel free to add items not listed here as a comment.
 The following should already happen
   * Use the default KDE style (Oxygen)
   * Use KDE shortcuts
-  * Use KDE icons (given by the style)
+  * Use KDE icons back/forward/stop/reload (given by the style)
+  * Use KDE icons in the menu's (given by the style)
   * Desktop file should appear in the KDE menu
   * Import Konq's bookmarks (Both applications use XBel format, this could even be a shared file via a sym links)
   * Use XDG for opening files/folders
