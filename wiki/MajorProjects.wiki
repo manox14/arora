@@ -10,16 +10,6 @@ Kubuntu Karmic 9.10 Inclusion
  * http://wiki.kubuntu.org/KubuntuKarmicWebbrowser
  * http://wiki.kubuntu.org/seele/KarmicTODO/Arora
 
-Cookies
-  * Cookies need to just work for users.
-  * Owner: Benjamin Meyer
-  * Current Status: Arora has a new cookie jar, there are patches going into Qt and QtWebKit and any reported cookie issues are being investigated.
-
-AdBlock
-  Owner: Benjamin Meyer, Zsombor Gegesy
-  * Clone Firefox adblock any way possible.
-  Current Status: *Completed*
-
 KDE Integration
   * Make sure KDE users are happy with Arora, they are most likely initial set of users. 
   * Pretty much complete http://code.google.com/p/arora/wiki/KDE4Integration patching KDE style if need be.
@@ -30,30 +20,14 @@ Extensions
   * P1 Arora needs an action manager.
   * P2 QScript plugin infrastructure.
 
-Autofill forms
-  * A standard browser feature and one of the highest wanted features.  This includes configuration dialogs.
-
 Top Sites start page
   * A rich widget that show images of the top sites.  Safari4 really nails this feature.  Maybe make something in html, graphicsview or the new qt-kinetics?  This will become the face of Arora.
-
-Click to Play for flash
-  Owner: Benjamin Meyer
-  * Flash is unstable and its memory leaks and crashes makes Arora look bad.  Arora should have click to play with a whitelist by default.
-  * Webkit plugin?  Determine how this is implemented on other browsers and the best way to do this for Arora 
-  Current Status: *Completed*
 
 Url Icons
   * Currently url icons with QtWebKit are broke,
   * P1 QtWebKit must be fixed/enhanced and then we can get icons or get a signal when they are loaded
   * P2 Patch the toolbar, menu, and dialogs to load the icon
   * manyoso has started patches for qtwebkit and arora
-
-Location Bar
-  Owner: Benjamin K. Stuhl
-  * Location bar completion: full text search
-  * Prioritise history entries by frecency (frequency + recency)
-  * TODO: track how URLs get loaded and take it into account
-  Current Status: *Completed*
 
 RSS
   Owner: Benjamin Meyer
@@ -64,15 +38,3 @@ RSS
 
 Spellcheck
   * Add hunspell support to QtWebKit
-
-Open Search
-  Owner: Jakub Wieczorek, Benjamin Meyer, Christian Franke
-  * Add open search support to the toolbar search.
-  * Ship it with a bunch of search engines by default.
-  * Add simple management interface.
-  * Allow to add new engines from file or website when they are linked in HTML tree.
-  * Support contextual suggestions.
-  * Allow to create new engines from any input field existing on a site.
-  * Location bar shortcuts ("wp:foo" searching for foo on the wikipedia).
-  * POST support.
-  Current Status: *Completed*
