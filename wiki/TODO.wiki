@@ -1,44 +1,14 @@
 #summary The Unsorted drop zone
 
-= Introduction =
-
-This is short term dumping ground for bugs, tasks, ideas, and suggestions, the TODO file from before the project was hosted on Google.
-
-=== QtWebKit Issues ===
-  * Find, hit enter, link isn't followed
-  * In statusbar: "Loading "url", completed 66 of 74 items"
-  * [205030] http://en.wikipedia.org/wiki/Austrian_economics assert on OS X
+These are being moved to issues.  Please report new issues there and star the issue you want done first.
  
-=== Qt Issues ===
-  * right click on the left side of the toolbar the menu should be empty, but it shows the menu for the first item
-
-=== general ===
-  * QMenu with no parent for OS X
-  * view source in right click menu
-  * Enable the page cache in QtWebKit (see QWebSettings for that), a simple calculation like having 10 tabs with forward and back should work fast you are at 20 pages.
-
-Misc (maybe or nice to have or investigate later)
-  * Download file ends with .download an then renamed?
-
 === Extensions ===
-  * KWallet integration
   * Set the user agent
   * GreaseMonkey
   * Maybe could help with scripting design http://amarok.kde.org/blog/archives/611-Scriptable-Services.html
-  * Start page of the Top 10 sites in the history
   * http://www.cerias.purdue.edu/site/blog/post/security-extensions-for-firefox/
   * http://nethackz.com/10-plus-safari-add-ons-for-the-mac-lovers/
   * http://ejohn.org/blog/simple-extensions-in-firefox-3/
-
-=== Bookmarks Dialog===
-  * Select a bunch and move, order reversed, screwed up
-  * Select multiple, right click and delete
-
-=== Bookmark Bar ===
-  * Should be able to show icons
-
-=== History/Bookmarks ===
-  * http://live.gnome.org/Epiphany/BookmarksHistoryIntegration
 
 History data
   * how long, when does the page close
