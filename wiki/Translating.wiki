@@ -10,9 +10,9 @@ This page contains instructions that you could use to contribute to Arora by tra
 
 {{{
 TRANSLATIONS += \
-  locale/xx_XX.ts \     # line to add, replace xx with your language code
-  locale/ru_RU.ts \
-  locale/en.ts \
+  xx_XX.ts \     # line to add, replace xx with your language code
+  ru_RU.ts \
+  en.ts \
 ...
 }}}
 
