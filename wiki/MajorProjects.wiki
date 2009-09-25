@@ -1,5 +1,7 @@
 #summary Major Projects TODO list
 
+Feature requests should be filed in issues, not in comments
+
 = Introduction =
 
 This is a list of major projects that need to be done for Arora.  Rather then being a simple patch or two each of these are larger project that need to be developed in a branch with possible patches going into other projects such as Qt, QtWebKit, KDE, or Kubuntu.  New UI elements should have Autotests and Manualtests.  All of these projects will require an amount of research to determine what features are needed and will often contain many sub tasks.
