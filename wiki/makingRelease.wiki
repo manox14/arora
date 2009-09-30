@@ -1,5 +1,6 @@
 #summary Notes on making release so I don't forget anything
 
+ * email arora-dev for a translator to go over everything and catch string errors before string freeze.
  * Run lupdate arora.pro
  * Send an e-mail to arora-dev to get translations a week before release.
 
