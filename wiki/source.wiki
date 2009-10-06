@@ -47,7 +47,7 @@ make clean;qmake;
 To have flash in Arora you need to use a newer version of webkit then the one that comes with Qt 4.4.  You can either use qt-snapshot or you can use any version of Qt and QtWebKit Trunk.
 
 === Building with QtWebKit Trunk ===
-If you want to use Arora with QtWebKit trunk you need to get a copy WebKit trunk as well at Qt 4.4.  Setting the environment variables QT_WEBKIT and WEBKITDIR and rebuilding Arora will cause it to use QtWebKit trunk.  See the file 'src/webkittrunk.pri' in Arora's source for more details and customizations you might need to do to point it to the location of your QtWebKit checkout.
+If you want to use Arora with QtWebKit trunk you need to get a copy WebKit trunk as well at Qt 4.4.  Setting the environment variables QT_WEBKIT and WEBKITDIR and rebuilding Arora will cause it to use QtWebKit trunk.  See the file 'webkittrunk.pri' in Arora's source for more details and customizations you might need to do to point it to the location of your QtWebKit checkout.
 
 Simple steps to build QtWebKit trunk:
 
