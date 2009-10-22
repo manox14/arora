@@ -51,10 +51,12 @@ If you have translated Arora to a new language and would like to become a mainta
 If you've been contributing to a language that had been already present in the tree, you can become a maintainer having provided the first patch.
 
 Three ways to become a maintainer:
-  * Send an e-mail to arora-dev.
+  * Send an e-mail to arora-translation mailinglist http://groups.google.com/group/arora-translation.
   * Pop in the irc channel and ask.
   * Ask when requesting pulling your first translation patch.
 
 The maintainers are listed in the src/locale/maintainers file so that other contributors can pass the patches directly to the maintainers.
+
+Lastly join the arora-translation mailinglist.  http://groups.google.com/group/arora-translation  This list will be limited to discussions about the translations and calls for translations for the next release.
 
 Thank you for helping out!
