@@ -29,8 +29,8 @@
  * upload to arora-browser.org
 
 = binary packages =
- * Build a windows package and upload, see BuildingOnWindows
- * Build a OS X package and upload, see BuildingOnMacOS
+ * Build a windows package and upload, see [BuildingOnWindows]
+ * Build a OS X package and upload, see [BuildingOnMacOS]
 
 = Other =
  * update this wiki to use the next version :)
