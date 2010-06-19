@@ -6,7 +6,7 @@ Run: {{{pacman -S arora}}}
 === Fedora, Yellowdog, and Red Hat ===
 Run: {{{yum install arora}}}
 
-=== Debian-Based Linux Distrobutions (Linux Mint, Ubuntu, Debian)
+=== Debian-Based Linux Distrobutions (Linux Mint, Ubuntu, Debian) ===
 Run: {{{apt-get install arora}}}
 
 === Suse Linux enterprise and OpenSuse ===
