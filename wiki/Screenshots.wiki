@@ -26,6 +26,8 @@ Using Qt Arora integrates very well with every platform.  From picking up your c
 === Windows Vista ===
 [http://picasaweb.google.co.uk/icefox/AroraScreenshots/photo#5233992417973657954 http://lh6.ggpht.com/icefox/SKLgX45oYWI/AAAAAAAAARk/zpBl9gNY7eM/s288/arora-vista.png]
 
+=== Haiku ===
+[http://picasaweb.google.com/stephenmac7/AroraScreenshots#5484501333819395890 http://lh6.ggpht.com/_ht-kXuOA3bk/TBzc56x2DzI/AAAAAAAAFg0/2vgHYq0O1og/2009-10-21_arora-for-haiku_a1.png]
 
 Once Inspector is enabled (in the tools menu) you can right click at any point to bring up the inspector.
 
