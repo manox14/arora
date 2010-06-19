@@ -1,0 +1,34 @@
+#summary The Default Keyboard Shortcuts in Arora (Non-Mac Keyboard)
+
+== File Menu ==
+|| *Action* || *Shortcut* ||
+|| New Window || Ctrl+N ||
+|| New Tab || Ctrl+T ||
+|| Open File || Ctrl+O ||
+|| Open Location || Ctrl+L ||
+|| Close Tab || Ctrl+W or Ctrl+F4 ||
+|| Save As... || Ctrl+S ||
+|| Print || Ctrl+P ||
+|| Close Window || Ctrl+Shift+W ||
+|| Quit || Ctrl+Q ||
+
+== Edit Menu ==
+|| *Action* || *Shortcut* ||
+|| Undo || Ctrl+Z ||
+|| Redo || Ctrl+Y ||
+|| Cut || Ctrl+X ||
+|| Copy || Ctrl+C ||
+|| Paste || Ctrl+V ||
+|| Select All || Ctrl+A ||
+|| Find || Ctrl+F ||
+|| Find Next || F3 ||
+|| Find Previous || Shift+F3 ||
+
+== View Menu ==
+|| Hide/Show Toolbar || Ctrl+Pipe (Ctrl+|) ||
+|| Hide/Show Bookmarks Bar || Ctrl+Alt+B ||
+|| Hide/Show Status Bar || Ctrl+/ ||
+|| Stop || Ctrl+. ||
+|| Reload Page || Ctrl+R ||
+|| Zoom In || Ctrl++ ||
+|| Zoom Out || Ctrl+-
