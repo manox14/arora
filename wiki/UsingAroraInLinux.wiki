@@ -1,0 +1,55 @@
+#summary The beginner's guide to using arora in linux
+#labels Featured
+
+== Installing Arora ==
+Please goto [InstallingAroraOnLinux]
+
+== Opening Arora ==
+
+=== KDE ===
+  # Click the icon on the bottom-left of the screen
+  # Click the bar on the menu that just popped up
+  # Type: Arora
+  # Click the Arora Item
+
+=== GNOME/XFCE ===
+  # Click Applications
+  # Select Internet/Network- >Arora
+
+=== LXDE ===
+  # Click the icon on the bottom-left of the screen
+  # Select Internet/Network- >Arora
+
+=== Bash Command ===
+
+==== Open Home Page ====
+Run: {{{arora}}}
+
+==== Open Certain Web Page ====
+Run: {{{arora theWebPageYouWantToOpen}}}
+
+== Going to an address ==
+  # Click the address bar (the long, white bar)
+  # Type the address you want to open
+  # Press Enter/Return
+
+== Changing Home Page ==
+  # Select Tools- >Options
+  # Change the value of Home Page to the Address of the Page you want to be your home page
+  # Click OK/Apply/Done
+
+== Clearing Private Data ===
+  # Select Tools-> Clear Private Data
+  # Change the value of the selection boxes to your liking
+  # Click Clear Private Data
+
+== Adding a Tab ==
+
+=== Through the GUI ===
+  # Alternate-Click the Space next to the tab which is most to the right
+  # Click 'New Tab'
+
+=== From the keyboard ===
+Push Ctrl+t
+
+==== Please Expand this article ====
