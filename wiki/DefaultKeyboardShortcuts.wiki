@@ -47,3 +47,18 @@
 || *Action* || *Shortcut* ||
 || Show all bookmarks || Ctrl+Shift+B ||
 || Add bookmark || Ctrl+D ||
+
+== Window Menu ==
+|| *Action* || *Shortcut* ||
+|| Show next tab || Ctrl+} ||
+|| Show previous tab || Ctrl+{ ||
+|| Downloads || Ctrl+Y ||
+
+== Tools Menu ==
+|| *Action* || *Shortcut* ||
+|| Web Search || Ctrl+K ||
+|| Clear Private Data || Ctrl+Shift+Del ||
+|| Options || Ctrl+, ||
+
+== Help Menu ==
+None
