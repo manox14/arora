@@ -2,7 +2,7 @@
 #labels Featured
 
 == Installing Arora ==
-Please goto [InstallingAroraOnLinux]
+Please see: [InstallingAroraOnLinux]
 
 == Opening Arora ==
 
@@ -51,5 +51,8 @@ Run: {{{arora theWebPageYouWantToOpen}}}
 
 === From the keyboard ===
 Push Ctrl+t
+
+== Default Keyboard Shortcuts ==
+Please see: [DefaultKeyboardShortcuts]
 
 ==== Please Expand this article ====
