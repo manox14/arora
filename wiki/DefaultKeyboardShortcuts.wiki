@@ -25,6 +25,7 @@
 || Find Previous || Shift+F3 ||
 
 == View Menu ==
+|| *Action* || *Shortcut* ||
 || Hide/Show Toolbar || Ctrl+Pipe (Ctrl+|) ||
 || Hide/Show Bookmarks Bar || Ctrl+Alt+B ||
 || Hide/Show Status Bar || Ctrl+/ ||
@@ -35,8 +36,14 @@
 || Full Screen || F11 ||
 || Page Source || Ctrl+Alt+U ||
 
-== History ==
+== History Menu ==
+|| *Action* || *Shortcut* ||
 || Back || Alt+Left ||
 || Forward || Alt+Right ||
 || Home || Ctrl+Shift+H ||
 || Show all history || Ctrl+H ||
+
+== Bookmarks Menu ==
+|| *Action* || *Shortcut* ||
+|| Show all bookmarks || Ctrl+Shift+B ||
+|| Add bookmark || Ctrl+D ||
