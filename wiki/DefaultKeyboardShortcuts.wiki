@@ -31,4 +31,12 @@
 || Stop || Ctrl+. ||
 || Reload Page || Ctrl+R ||
 || Zoom In || Ctrl++ ||
-|| Zoom Out || Ctrl+-
+|| Zoom Out || Ctrl+- ||
+|| Full Screen || F11 ||
+|| Page Source || Ctrl+Alt+U ||
+
+== History ==
+|| Back || Alt+Left ||
+|| Forward || Alt+Right ||
+|| Home || Ctrl+Shift+H ||
+|| Show all history || Ctrl+H ||
