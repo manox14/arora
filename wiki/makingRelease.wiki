@@ -19,13 +19,13 @@
 
  * Make a git tag
 {{{
- git tag -a 0.11.0 -m "Version 0.11.0"
+ git tag -a 0.12.0 -m "Version 0.12.0"
 }}}
 
 = tarball =
 
  * Make a tarball
- * git archive --format=tar --prefix=arora-0.11.0/ 0.11.0 | gzip > arora-0.11.0.tar.gz
+ * git archive --format=tar --prefix=arora-0.12.0/ 0.11.0 | gzip > arora-0.12.0.tar.gz
  * upload to arora-browser.org
 
 = binary packages =
