@@ -1,6 +1,6 @@
 #summary Instructions to install arora on different linux distrobutions.
 
-=== Arch Linux ===
+=== Arch Linux and Chakra Linux ===
 Run: {{{pacman -S arora}}}
 
 === Fedora, Yellowdog, and Red Hat ===
