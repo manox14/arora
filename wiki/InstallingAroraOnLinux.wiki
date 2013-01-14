@@ -1,4 +1,4 @@
-#summary Instructions to install arora on different linux distrobutions.
+#summary Instructions to install arora on different linux distributions.
 
 === Arch Linux and Chakra Linux ===
 Run: {{{pacman -S arora}}}
